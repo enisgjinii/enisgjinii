@@ -1,94 +1,42 @@
-# enisgjinii
+## Hi there 👋 I'm Enis Gjini!
 
-![Header](https://github.com/enisgjinii/enisgjinii/blob/main/assets/header.jpg)
+### About Me
+I am a passionate coder with a focus on web development and health-related applications. I thrive on bringing innovative ideas to life through coding and exploring technologies. My GitHub journey began on October 6, 2023, and since then, I have actively created multiple repositories to showcase my skills and interests.
 
-Hello there! 👋 Welcome to my GitHub profile. I am enisgjinii, a passionate developer with a vast skill set and a keen interest in various programming languages and topics. In this README, I will provide an analysis of my GitHub activity, showcase some of my best projects, and share a comprehensive self-introduction.
+### Skills and Interests
+My skills cover a range of programming languages and technologies. Some of the languages I frequently use include JavaScript, HTML, PHP, Python, CSS, Batchfile, Hack, and Java. JavaScript is my go-to language for web development, and I am always exploring new frameworks and libraries to enhance my skills.
 
-## GitHub Activity and Performance
+My interests revolve around web development and health-related applications. I am proud to have created projects like "calar," "YourBMI," and "focus_tracker," which have gained attention and stars from the GitHub community. These projects combine my passion for coding with my desire to contribute to society through useful applications.
 
-Here is an overview of my GitHub activity:
+### GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=enisgjinii)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enisgjinii)](https://github.com/enisgjinii)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enisgjinii)](https://git.io/streak-stats)
 
-- Total Public Repositories: 7
-- Total Commits: 59
+### My Projects
+1. **calar**
+Description: calar is a web development project that showcases my skills in HTML, CSS, and JavaScript. It is a simple but visually appealing calculator where users can perform basic mathematical operations. The project received several stars and is one of my most recognized repositories on GitHub.
+GitHub Repository: [calar](https://github.com/enisgjinii/calar)
 
-My repositories cover a wide range of topics and languages, including but not limited to:
+2. **YourBMI**
+Description: YourBMI is a health-related application developed using React, JavaScript, and CSS. It allows users to calculate their Body Mass Index (BMI) by providing their height and weight. The project gained popularity among health-conscious individuals who want to monitor their fitness progress.
+GitHub Repository: [YourBMI](https://github.com/enisgjinii/YourBMI)
 
-- BMI Calculator app (JavaScript)
-- focus_tracker (PHP, Python, Hack, Batchfile)
-- Expense_Tracker_Application (PHP, CSS, Hack, JavaScript)
+3. **focus_tracker**
+Description: focus_tracker is a productivity tool designed to help users track their focus and improve productivity. It is built using HTML, CSS, and JavaScript, and incorporates features like a timer, task tracker, and visualization charts. The project has received positive feedback from users who find it helpful in managing their daily tasks.
+GitHub Repository: [focus_tracker](https://github.com/enisgjinii/focus_tracker)
 
-While there hasn't been much community engagement with my repositories, I am constantly working on improving my skills and exploring new technologies.
+4. **Dizajni-dhe-Zhvillimi-i-Uebit**
+Description: Dizajni-dhe-Zhvillimi-i-Uebit is a project dedicated to web design and development. It covers various web technologies, frameworks, and design concepts. The repository contains code examples, tutorials, and useful resources for individuals interested in mastering web development.
+GitHub Repository: [Dizajni-dhe-Zhvillimi-i-Uebit](https://github.com/enisgjinii/Dizajni-dhe-Zhvillimi-i-Uebit)
 
-## Skills and Interests
-
-My diverse repository topics indicate proficiency in multiple programming languages, including:
-
-- JavaScript
-- PHP
-- CSS
-- Hack
-- Python
-- Batchfile
-- HTML
-- Java
-
-I enjoy working on various projects and expanding my knowledge in different areas of software development.
-
-## My Best Projects
-
-Let me showcase some of my best projects:
-
-### YourBMI
-
-![YourBMI](https://github.com/enisgjinii/enisgjinii/blob/main/assets/yourbmi.png)
-
-YourBMI is a BMI Calculator app designed to simplify health tracking. It is my most starred repository and a testament to my programming abilities. Check it out and calculate your BMI!
-
-[GitHub Repository](https://github.com/enisgjinii/YourBMI)
-
-### focus_tracker
-
-![focus_tracker](https://github.com/enisgjinii/enisgjinii/blob/main/assets/focus_tracker.png)
-
-The focus_tracker project is a versatile tool that helps users track their focus and productivity. It is built using PHP, Python, Hack, and Batchfile. Feel free to explore the repository and try it out yourself!
-
-[GitHub Repository](https://github.com/enisgjinii/focus_tracker)
-
-### Expense_Tracker_Application
-
-![Expense_Tracker_Application](https://github.com/enisgjinii/enisgjinii/blob/main/assets/expense_tracker.png)
-
-Expense_Tracker_Application is a comprehensive app for managing personal finances. With a combination of PHP, CSS, Hack, and JavaScript, it offers a powerful solution for tracking expenses. Visit the repository to dive into the code and take control of your finances!
-
-[GitHub Repository](https://github.com/enisgjinii/Expense_Tracker_Application)
-
-## Contact Information
-
-Feel free to reach out to me through the following channels:
+### Get in Touch
+Feel free to reach out to me for any collaborations, questions, or inquiries. I am always eager to connect with like-minded individuals and explore new opportunities within the coding community.
 
 - GitHub: [enisgjinii](https://github.com/enisgjinii)
-- Email: [enis.gjinii@gmail.com](mailto:enis.gjinii@gmail.com)
+- Email: [enisgjini@email.com]
+- LinkedIn: [Enis Gjini]
+- Twitter: [@enisgjinii]
 
-## Self-Introduction
-
-Let me take this opportunity to introduce myself more comprehensively. I am a passionate and driven individual with a strong foundation in software development. With a focus on continuous learning and improvement, I strive to stay up-to-date with the latest technologies and industry trends.
-
-I have extensive experience in working with JavaScript, PHP, and CSS, enabling me to develop robust and interactive web applications. I also have a good grasp of Python and Hack, which I leverage for various projects. Moreover, I am well-versed in utilizing technologies such as Batchfile, HTML, and Java for specific use cases.
-
-I value efficiency, simplicity, and clarity in code, and apply best practices to deliver high-quality solutions. I am a collaborative team player who actively participates in project discussions and provides valuable input.
-
-Apart from programming, I enjoy exploring new domains and have a knack for problem-solving. Photography is one of my hobbies, allowing me to capture moments and express my creativity beyond the world of code.
-
-## GitHub Stats
-
-As a GitHub user, it's natural to be curious about statistics. Here are some relevant stats about my GitHub activity:
-
-- Total Commits: ![59 commits](https://github-readme-stats.vercel.app/api?username=enisgjinii&count_private=true&show_icons=true&theme=radical)
-- Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&langs_count=8&layout=compact&theme=radical)
-- Trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=enisgjinii)](https://github.com/enisgjinii)
-
-These statistics provide a glimpse into my GitHub journey and highlight my dedication to coding.
-
-![Footer](https://github.com/enisgjinii/enisgjinii/blob/main/assets/footer.jpg)
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to connect with me. Let's collaborate and create something awesome together! 🚀
+Let's code together and make a difference in the world of technology! || FontAwesome img & link needed here using shadows/hover - interaction feature!
