@@ -1,182 +1,259 @@
-<!-- Portfolio Section with Images, Emojis, and More! -->
+# 👋 Hi there, I'm Enis Gjini
+
+## 🌐 Web Designer & Full Stack Developer
 
 <div align="center">
-  <!-- Profile Image (replace placeholder with your own image link) -->
-  <img 
-    src="https://via.placeholder.com/150" 
-    alt="Profile Photo" 
-    width="150" 
-    height="150" 
-    style="border-radius: 50%; margin-bottom: 10px;"
-  />
-
-  <h1>Enis Gjini</h1>
-  <h3>Web Designer & Full Stack Developer</h3>
-
-  <!-- Add a short tagline with emojis -->
-  <p>Creating High-Performance, Visually Striking, and SEO-Optimized Web Solutions to Elevate Your Brand 🚀💻✨</p>
+  🚀 Creating high-performance, visually striking, and SEO-optimized web solutions to elevate your brand 💻✨
 </div>
 
-<hr style="margin: 2rem 0;" />
+---
 
-<h2>🔥 About Me</h2>
-<p>
-  Hello there! I'm Enis, a <strong>Full Stack Developer</strong> and Designer from Kosovo with over 5 years of experience turning big ideas into powerful digital solutions. 
-  When I'm not coding or perfecting pixel designs, you might find me exploring new technology trends or sipping on a cup of coffee ☕.
-</p>
-<p>
-  Currently, I serve as a Full Stack Developer at Baresha Network. My mission is to craft seamless, secure, and scalable applications that blend intuitive UX, modular architecture, and modern web standards.
-</p>
+## 🔍 About Me
 
-<hr style="margin: 2rem 0;" />
+I'm Enis, a **Full Stack Developer** and Designer based in Kosovo with over 5 years of industry experience. I specialize in blending creativity with technical expertise to build seamless user experiences—both front and back end. Currently, I lead development at **Baresha Network**, where I transform complex ideas into visually compelling and scalable products.
 
-<h2>🚀 Selected Projects</h2>
-<p>
-  Here are a few highlights of my work. Each project showcases my commitment to intuitive design, robust coding, and tangible results.
-</p>
+When I'm not coding or designing, I enjoy exploring new technology trends and sipping on a cup of coffee ☕.
 
-<!-- Project 1 -->
-<div style="display: flex; margin-bottom: 2rem; align-items: center;">
-  <!-- Replace the placeholder with a real image of your project -->
-  <img 
-    src="https://via.placeholder.com/300x200" 
-    alt="Modernizing a Management Platform" 
-    style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
-  />
-  <div>
-    <h3>Modernizing a Management Platform ⚙️</h3>
-    <p>
-      <em>Designed a sleek, intuitive interface that revolutionizes financial management and engagement.</em>
-    </p>
-    <a href="https://enis-gjini.framer.website/" target="_blank" style="color: #0000EE;">View Case Study</a>
-  </div>
-</div>
+---
 
-<!-- Project 2 -->
-<div style="display: flex; margin-bottom: 2rem; align-items: center;">
-  <!-- Replace the placeholder with a real image of your project -->
-  <img 
-    src="https://via.placeholder.com/300x200" 
-    alt="Revamping an E-Commerce Website" 
-    style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
-  />
-  <div>
-    <h3>Revamping an E-Commerce Website 🛍️</h3>
-    <p>
-      <em>Crafted a user-centric platform that streamlines the purchase journey and showcases high-quality jerseys.</em>
-    </p>
-    <a href="https://enis-gjini.framer.website/" target="_blank" style="color: #0000EE;">View Case Study</a>
-  </div>
-</div>
-
-<!-- Project 3 -->
-<div style="display: flex; margin-bottom: 2rem; align-items: center;">
-  <!-- Replace the placeholder with a real image of your project -->
-  <img 
-    src="https://via.placeholder.com/300x200" 
-    alt="Developing the Baresha Management App" 
-    style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
-  />
-  <div>
-    <h3>Developing the Baresha Management App 🎵</h3>
-    <p>
-      <em>Simplified content management for YouTube and major streaming platforms, boosting productivity.</em>
-    </p>
-    <a href="https://enis-gjini.framer.website/" target="_blank" style="color: #0000EE;">View Case Study</a>
-  </div>
-</div>
-
-<!-- Project 4 -->
-<div style="display: flex; margin-bottom: 2rem; align-items: center;">
-  <!-- Replace the placeholder with a real image of your project -->
-  <img 
-    src="https://via.placeholder.com/300x200" 
-    alt="Optimizing an Old Web Design" 
-    style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
-  />
-  <div>
-    <h3>Optimizing an Old Web Design 🏆</h3>
-    <p>
-      <em>Transformed an outdated website into a modern, high-performing, and visually captivating platform.</em>
-    </p>
-    <a href="https://enis-gjini.framer.website/" target="_blank" style="color: #0000EE;">View Case Study</a>
-  </div>
-</div>
-
-<!-- Project 5 -->
-<div style="display: flex; margin-bottom: 2rem; align-items: center;">
-  <!-- Replace the placeholder with a real image of your project -->
-  <img 
-    src="https://via.placeholder.com/300x200" 
-    alt="YouTube Audio Downloader" 
-    style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
-  />
-  <div>
-    <h3>YouTube Audio Downloader 🎧</h3>
-    <p>
-      <em>Created a user-friendly GUI for downloading audio from videos, playlists, or entire channels.</em>
-    </p>
-    <a href="https://enis-gjini.framer.website/" target="_blank" style="color: #0000EE;">View Project</a>
-  </div>
-</div>
-
-<hr style="margin: 2rem 0;" />
-
-<h2>💡 Skills</h2>
-<ul>
-  <li><strong>Frontend Development</strong>: HTML, CSS, JavaScript, React.js, Vue.js</li>
-  <li><strong>Backend Development</strong>: Node.js, Express.js, PHP, Laravel</li>
-  <li><strong>Database Management</strong>: MySQL, MongoDB</li>
-  <li><strong>Design Tools</strong>: Figma, Adobe XD</li>
-  <li><strong>Additional Proficiencies</strong>: SEO, Git, Docker</li>
-</ul>
-
-<hr style="margin: 2rem 0;" />
-
-<h2>💼 Experience</h2>
-
-<div style="margin-bottom: 1.5rem;">
-  <h3>Full Stack Developer</h3>
-  <p><em>Baresha Network</em> — <em>Dates of Employment</em></p>
-  <p>
-    Leading the development of robust, full-featured applications while collaborating with cross-functional teams.
-  </p>
-</div>
-
-<div style="margin-bottom: 1.5rem;">
-  <h3>Web Developer & Designer</h3>
-  <p><em>Freelance</em> — <em>Dates of Employment</em></p>
-  <p>
-    Developed customized websites and applications for a range of clients, focusing on creative design and reliable functionality.
-  </p>
-</div>
-
-<hr style="margin: 2rem 0;" />
-
-<h2>🎓 Education</h2>
-<div>
-  <h3>Bachelor's Degree in Computer Science</h3>
-  <p><em>University Name</em> — <em>Year of Graduation</em></p>
-  <p>
-    Gained a solid foundation in computing, algorithms, and software engineering principles.
-  </p>
-</div>
-
-<hr style="margin: 2rem 0;" />
-
-<h2>🤝 Get in Touch</h2>
-<p>
-  Interested in working together or just want to say hi? Let's connect and explore how we can collaborate.
-</p>
-<ul>
-  <li><strong>Email</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/enis-gjini" target="_blank">linkedin.com/in/enis-gjini</a></li>
-  <li><strong>Twitter</strong>: <a href="https://twitter.com/_enisgjini" target="_blank">@_enisgjini</a></li>
-</ul>
-
-<hr style="margin: 2rem 0;" />
+## 💼 Services I Offer
 
 <div align="center">
-  <!-- Footer Emoji -->
-  <p>&copy; 2025 Enis Gjini &nbsp;|&nbsp; Crafting with 💖 and ⚡</p>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+    <div style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 1rem; border: 1px solid #eaeaea; border-radius: 8px;">
+      <h3>🎨 Web Design</h3>
+      <p>Modern, responsive designs focused on aesthetics, accessibility, and user experience.</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 1rem; border: 1px solid #eaeaea; border-radius: 8px;">
+      <h3>🏗️ Full Stack Development</h3>
+      <p>Expertise in both frontend and backend technologies to build robust and scalable applications.</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 1rem; border: 1px solid #eaeaea; border-radius: 8px;">
+      <h3>🚀 SEO & Performance</h3>
+      <p>Optimizing websites for speed and search engine visibility to meet the latest standards.</p>
+    </div>
+    <div style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 1rem; border: 1px solid #eaeaea; border-radius: 8px;">
+      <h3>🔗 API Integrations</h3>
+      <p>Seamless integration with third-party APIs and custom-built services to enhance functionality.</p>
+    </div>
+  </div>
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+    
+    <!-- Project 1 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="http://enisgj-11.epizy.com/?i=2" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="Personal Portfolio Website" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🌐 Personal Portfolio Website</h3>
+        <p>A custom-built portfolio showcasing my services, skills, and professional background with modern design principles and intuitive navigation.</p>
+        <a href="http://enisgj-11.epizy.com/?i=2" target="_blank">🔗 Visit Website</a>
+      </div>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="https://www.nuhi-gartenbau.de/" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="Nuhi Gartenbau Website" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🌱 Nuhi Gartenbau Website</h3>
+        <p>A professional website for a landscaping and garden design business, highlighting services, client testimonials, and project galleries.</p>
+        <a href="https://www.nuhi-gartenbau.de/" target="_blank">🔗 Visit Website</a>
+      </div>
+    </div>
+    
+    <!-- Project 3 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="https://stein-gartengestaltung.de/Heim/" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="Stein Gartengestaltung" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🏡 Stein Gartengestaltung</h3>
+        <p>A user-friendly platform for a premium landscaping company, featuring image galleries, contact forms, and a mobile-responsive layout.</p>
+        <a href="https://stein-gartengestaltung.de/Heim/" target="_blank">🔗 Visit Website</a>
+      </div>
+    </div>
+    
+    <!-- Project 4 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="https://menbun.com/" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="Menbun Website" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🍜 Menbun Website</h3>
+        <p>A sleek, modern website for a culinary business specializing in ramen, designed for easy navigation and a mouthwatering user experience.</p>
+        <a href="https://menbun.com/" target="_blank">🔗 Visit Website</a>
+      </div>
+    </div>
+    
+    <!-- Project 5 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="https://github.com/enisgjinii/YourBMI" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="YourBMI App" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🏋️ YourBMI App</h3>
+        <p>An open-source application for calculating BMI with a clean UI, built using React.js for a fluid and dynamic experience.</p>
+        <a href="https://github.com/enisgjinii/YourBMI" target="_blank">🔗 View on GitHub</a>
+      </div>
+    </div>
+    
+    <!-- Project 6 -->
+    <div style="border: 1px solid #eaeaea; border-radius: 8px; overflow: hidden;">
+      <a href="https://client-api-aggs.onrender.com/" target="_blank">
+        <img src="https://via.placeholder.com/400x250" alt="Client API Aggregator" style="width: 100%; height: auto;">
+      </a>
+      <div style="padding: 1rem; text-align: center;">
+        <h3>🔗 Client API Aggregator</h3>
+        <p>A robust API aggregator tool that consolidates multiple data points into a unified endpoint for seamless client management and data retrieval.</p>
+        <a href="https://client-api-aggs.onrender.com/" target="_blank">🔗 Try the App</a>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+---
+
+## 📈 Experience
+
+<div align="center">
+  <div style="max-width: 800px; margin: 0 auto;">
+    
+    ### **Full Stack Developer**  
+    **Baresha Network**  
+    *Dates of Employment*  
+    - Leading the development of robust, full-featured applications.
+    - Collaborating with cross-functional teams to deliver scalable solutions.
+    
+    <br>
+    
+    ### **Web Developer & Designer**  
+    **Freelance**  
+    *Dates of Employment*  
+    - Developed customized websites and applications for various clients.
+    - Focused on creative design and reliable functionality to meet client needs.
+    
+  </div>
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+  <div style="max-width: 800px; margin: 0 auto;">
+    
+    ### **Bachelor's Degree in Computer Science**  
+    **University Name**  
+    *Year of Graduation*  
+    - Gained a solid foundation in computing, algorithms, and software engineering principles.
+    
+  </div>
+</div>
+
+---
+
+## 📣 Testimonials
+
+<div align="center">
+  <div style="max-width: 800px; margin: 0 auto;">
+    
+    > “Enis transformed our outdated website into a sleek, modern platform. Our site speed improved dramatically, and client inquiries went up by 40%!”  
+    > — **Jane Doe**, CEO at ExampleCorp
+    
+    <br>
+    
+    > “Working with Enis was seamless. His expertise in both front-end design and back-end development saved us time and money without compromising on quality.”  
+    > — **John Smith**, Founder of StartupX
+    
+  </div>
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  <div style="max-width: 800px; margin: 0 auto;">
+    ### Frontend
+    - HTML, CSS, JavaScript
+    - React.js, Vue.js
+    
+    <br>
+    
+    ### Backend
+    - Node.js, Express.js
+    - PHP, Laravel
+    
+    <br>
+    
+    ### Databases
+    - MySQL, MongoDB
+    
+    <br>
+    
+    ### Design Tools
+    - Figma, Adobe XD
+    
+    <br>
+    
+    ### Other
+    - SEO Best Practices
+    - Git, Docker, CI/CD
+  </div>
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+  I'm always open to exciting collaborations and opportunities. Feel free to reach out!
+  
+  <br><br>
+  
+  - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+  - 🔗 **LinkedIn**: [linkedin.com/in/enis-gjini](https://linkedin.com/in/enis-gjini)
+  - 🐦 **Twitter**: [@_enisgjini](https://twitter.com/_enisgjini)
+  
+  <br><br>
+  
+  <div style="display: flex; justify-content: center; gap: 1rem;">
+    <a href="https://linkedin.com/in/enis-gjini" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+    </a>
+    <a href="https://twitter.com/_enisgjini" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30">
+    </a>
+    <a href="https://github.com/enisgjinii" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="30" height="30">
+    </a>
+  </div>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=radical" alt="Enis Gjini's GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📝 License
+
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
