@@ -1,13 +1,13 @@
 <!-- Updated Portfolio Section -->
 
 <div align="center">
-  <img 
+<!--   <img 
     src="https://framerusercontent.com/images/XMiiECCeeSoVVOYTGADuN9yI0Hs.jpg" 
     alt="Profile Photo" 
     width="150" 
     height="150" 
     style="border-radius: 50px; margin-bottom: 10px;"
-  />
+  /> -->
   <h1>Enis Gjini</h1>
   <h3>Web Designer & Full Stack Developer</h3>
   <p>🚀 Crafting high-performance, SEO-optimized web solutions that deliver results!</p>
