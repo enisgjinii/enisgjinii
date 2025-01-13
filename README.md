@@ -2,11 +2,11 @@
 
 <div align="center">
   <img 
-    src="https://via.placeholder.com/150" 
+    src="https://framerusercontent.com/images/XMiiECCeeSoVVOYTGADuN9yI0Hs.jpg" 
     alt="Profile Photo" 
     width="150" 
     height="150" 
-    style="border-radius: 50%; margin-bottom: 10px;"
+    style="border-radius: 50px; margin-bottom: 10px;"
   />
   <h1>Enis Gjini</h1>
   <h3>Web Designer & Full Stack Developer</h3>
