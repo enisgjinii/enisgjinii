@@ -35,7 +35,7 @@
 <!-- Project 2 -->
 <div style="display: flex; margin-bottom: 2rem; align-items: center;">
   <img 
-    src="https://via.placeholder.com/300x200" 
+    src="https://i.ibb.co/z8zjpZQ/screenshot-1736984517941.png" 
     alt="Nuhi Gartenbau Website" 
     style="width: 300px; height: 200px; object-fit: cover; margin-right: 1rem;"
   />
