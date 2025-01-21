@@ -30,7 +30,7 @@
 
 ## 🤝 Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [egjini17@gmail.com](mailto:egjini17@gmail.com)
 - **LinkedIn:** [linkedin.com/in/enis-gjini](https://linkedin.com/in/enis-gjini)
 - **Twitter:** [@_enisgjini](https://twitter.com/_enisgjini)
 
