@@ -15,6 +15,7 @@
 | ![Menbun](https://i.ibb.co/VYSDPVg/screenshot-1737447750999.png) | [Menbun 🏀](https://menbun.com/) <br> Sleek site for culinary jerseys. |
 | ![YourBMI App](https://i.ibb.co/d4P2Nxd/Screenshot-1703776051.png) | [YourBMI App 🏋️](https://github.com/enisgjinii/YourBMI) <br> Open-source BMI calculator. |
 | ![Client API Aggregator](https://i.ibb.co/p1WTfZS/screenshot-1737447914606.png) | [Client API Aggregator 🔗](https://client-api-aggs.onrender.com/) <br> Streamlined client data management. |
+| ![Arduino-Suhareka](https://i.ibb.co/LvCwVx0/screenshot-1737984804652.png) | [Arduino-Suhareka 🤖](https://arduinoinsuhareka.wordpress.com/) <br> High School project with Arduino. |
 
 ---
 
