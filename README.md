@@ -17,6 +17,8 @@
 | ![Client API Aggregator](https://i.ibb.co/p1WTfZS/screenshot-1737447914606.png) | [Client API Aggregator 🔗](https://client-api-aggs.onrender.com/) <br> Streamlined client data management. |
 | ![Arduino-Suhareka](https://i.ibb.co/LvCwVx0/screenshot-1737984804652.png) | [Arduino-Suhareka 🤖](https://arduinoinsuhareka.wordpress.com/) <br> High School project with Arduino. |
 | ![RSVP for my uncle](https://i.ibb.co/qMBfkXK5/Screenshot-2025-01-28-at-23-08-35-Albatrit-Albulena.png) | [RSVP ✉️](https://albatritalbulena.netlify.app/) <br> RSVP Project. |
+| ![YouTube Channel Health Scorecard](https://i.ibb.co/1tmpR3Df/Screenshot-2025-01-28-at-23-15-35-Vite-React-TS.png) | [YouTube Channel Health Scorecard 📊](https://neon-parfait-399ba8.netlify.app/) <br> YouTube Channel Health Scorecard. |
+
 ---
 
 ## 💡 Skills
