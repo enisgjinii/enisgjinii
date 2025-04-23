@@ -18,6 +18,7 @@ A selection of projects where functionality meets exceptional design:
 
 | Preview | Project Details |
 |---------|-----------------|
+| ![TimeXAssistant](https://i.ibb.co/BVNLhbJ9/image1.jpg) | **[TimeXAssistant ⌚](https://github.com/enisgjinii/TimeXAssistant)**<br>TimeX Assistant help you track your window usage, monitor system resources, and gain insights into your productivity patterns. |
 | ![TF-Schwimmbadbau/Gartenbau](https://i.ibb.co/M1tFHYn/screenshot-1737128648447.png) | **[TF-Schwimmbadbau/Gartenbau 🥽](https://enisgj-11.epizy.com/?i=1)**<br>Transforming outdoor spaces with tailored design solutions that balance style and functionality. |
 | ![Nuhi Gartenbau](https://i.ibb.co/z8zjpZQ/screenshot-1736984517941.png) | **[Nuhi Gartenbau 🌱](https://www.nuhi-gartenbau.de/)**<br>A professional landscaping website designed to elevate business growth and engage audiences with striking visuals. |
 | ![Stein Gartengestaltung](https://i.ibb.co/n87gDX2/screenshot-1737447665478.png) | **[Stein Gartengestaltung 🏡](https://stein-gartengestaltung.de/Heim/)**<br>An elegant platform showcasing premium landscaping services. |
