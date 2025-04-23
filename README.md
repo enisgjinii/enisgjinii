@@ -18,7 +18,7 @@ A selection of projects where functionality meets exceptional design:
 
 | Preview | Project Details |
 |---------|-----------------|
-| ![Watch Configurator](https://i.ibb.co/j9V2Pf4n/123-3x-shots-so.jpg) | **[Watch Configurator ⏲️](https://tangerine-arithmetic-47a79e.netlify.app/)**<br>Customize and visualize ZEROO watches in real-time with a 3D-like preview. |
+| ![Watch Configurator](https://i.ibb.co/x8Rjzw2M/123-3x-shots-so.webp) | **[Watch Configurator ⏲️](https://tangerine-arithmetic-47a79e.netlify.app/)**<br>Customize and visualize ZEROO watches in real-time with a 3D-like preview. |
 | ![TimeXAssistant](https://i.ibb.co/BVNLhbJ9/image1.jpg) | **[TimeXAssistant ⌚](https://github.com/enisgjinii/TimeXAssistant)**<br>TimeX Assistant help you track your window usage, monitor system resources, and gain insights into your productivity patterns. |
 | ![TF-Schwimmbadbau/Gartenbau](https://i.ibb.co/M1tFHYn/screenshot-1737128648447.png) | **[TF-Schwimmbadbau/Gartenbau 🥽](https://enisgj-11.epizy.com/?i=1)**<br>Transforming outdoor spaces with tailored design solutions that balance style and functionality. |
 | ![Nuhi Gartenbau](https://i.ibb.co/z8zjpZQ/screenshot-1736984517941.png) | **[Nuhi Gartenbau 🌱](https://www.nuhi-gartenbau.de/)**<br>A professional landscaping website designed to elevate business growth and engage audiences with striking visuals. |
