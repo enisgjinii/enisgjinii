@@ -19,7 +19,8 @@ A selection of projects where functionality meets exceptional design:
 | 🚀 **Preview** | 📌 **Project Name & Details** | 🌐 **Link** |
 |----------------|-------------------------------|-------------|
 | ![Watch Configurator](https://i.ibb.co/x8Rjzw2M/123-3x-shots-so.webp) | **Watch Configurator ⏲️**<br>*Customize ZEROO watches with a dynamic preview.* | [🔗 Visit](https://tangerine-arithmetic-47a79e.netlify.app/) |
-| ![Shirt 3D Configurator](https://i.ibb.co/67DT36nG/image.png) | **Shirt 3D Configurator 👕**<br>*Interactive 3D shirt configurator for personalized apparel.* | [🔗 Visit](https://akop-3d.vercel.app/)| 
+| ![Shirt 3D Configurator](https://i.ibb.co/67DT36nG/image.png) | **Shirt 3D Configurator 👕**<br>*Interactive 3D shirt configurator for personalized apparel.* | [🔗 Visit](https://akop-3d.vercel.app/) | 
+| ![Baresha Client Mobile App](https://i.ibb.co/4wK4m8Xx/image.png) | **Baresha Client Mobile App 📱**<br>*Sleek mobile app interface for managing events, payments, and financial insights.* | [🔗 Figma Prototype](https://www.figma.com/design/3EfLdT5jrJlAQFaJVOI6EG/Baresha-Client-Mobile-Prototype?node-id=0-1&t=bxIalfX5sTh3ciiZ-1) |
 | ![TimeXAssistant](https://i.ibb.co/BVNLhbJ9/image1.jpg) | **TimeXAssistant ⌚**<br>*System monitoring and productivity analysis tool.* | [🔗 GitHub](https://github.com/enisgjinii/TimeXAssistant) |
 | ![TF-Schwimmbadbau](https://i.ibb.co/M1tFHYn/screenshot-1737128648447.png) | **TF-Schwimmbadbau 🥽**<br>*Outdoor space design solutions.* | [🔗 Visit](https://enisgj-11.epizy.com/?i=1) |
 | ![Nuhi Gartenbau](https://i.ibb.co/z8zjpZQ/screenshot-1736984517941.png) | **Nuhi Gartenbau 🌱**<br>*Professional landscaping services.* | [🔗 Visit](https://www.nuhi-gartenbau.de/) |
@@ -30,6 +31,7 @@ A selection of projects where functionality meets exceptional design:
 | ![Arduino Suhareka](https://i.ibb.co/LvCwVx0/screenshot-1737984804652.png) | **Arduino Suhareka 🤖**<br>*High school Arduino technology project.* | [🔗 Visit](https://arduinoinsuhareka.wordpress.com/) |
 | ![RSVP](https://i.ibb.co/qMBfkXK5/Screenshot-2025-01-28-at-23-08-35-Albatrit-Albulena.png) | **RSVP ✉️**<br>*Event management RSVP app.* | [🔗 Visit](https://albatritalbulena.netlify.app/) |
 | ![YouTube Scorecard](https://i.ibb.co/1tmpR3Df/Screenshot-2025-01-28-at-23-15-35-Vite-React-TS.png) | **YouTube Channel Health Scorecard 📊**<br>*Analytics for YouTube creators.* | [🔗 Visit](https://neon-parfait-399ba8.netlify.app/) |
+
 
 
 
