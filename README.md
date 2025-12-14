@@ -41,59 +41,68 @@ Docker · Vercel · Figma
 
 ## Selected Projects
 
-### 3D & AR
-
 * **ZEROO Watch Configurator**
   [https://tangerine-arithmetic-47a79e.netlify.app](https://tangerine-arithmetic-47a79e.netlify.app)
-  Real-time 3D product customization with advanced material rendering.
 
 * **3D Shirt Designer**
   [https://akop-3d.vercel.app](https://akop-3d.vercel.app)
-  Apparel configurator with texture-based design and color control.
 
 * **3D Wearing Configurator**
-  [https://3d-wearing-configurator.vercel.app/](https://3d-wearing-configurator.vercel.app/)
-  Full-body clothing visualization with smooth material mapping.
+  [https://3d-wearing-configurator.vercel.app](https://3d-wearing-configurator.vercel.app)
 
 * **BESU Customs Configurator**
-  [https://besu-customs.vercel.app/](https://besu-customs.vercel.app/)
-  Custom product builder with dynamic 3D previews.
+  [https://besu-customs.vercel.app](https://besu-customs.vercel.app)
 
 * **Virtual Room Designer**
-  [https://virtual-room-designer.vercel.app/](https://virtual-room-designer.vercel.app/)
-  Interactive interior design tool with real-time lighting and object placement.
+  [https://virtual-room-designer.vercel.app](https://virtual-room-designer.vercel.app)
 
 * **AR.js Prototype**
-  [https://ar-js-prototype.vercel.app/](https://ar-js-prototype.vercel.app/)
-  Web-based augmented reality experiment using AR.js.
+  [https://ar-js-prototype.vercel.app](https://ar-js-prototype.vercel.app)
 
----
+* **ConfigureX**
+  [https://configurex.vercel.app](https://configurex.vercel.app)
 
-### Web Platforms
+* **SVG to 3D Converter**
+  [https://svg-to-3d-one.vercel.app](https://svg-to-3d-one.vercel.app)
+
+* **Diva Sofa 3D**
+  [https://diva-sofa-3d.vercel.app](https://diva-sofa-3d.vercel.app)
+
+* **Poster Configurator**
+  [https://poster-configurator.vercel.app](https://poster-configurator.vercel.app)
+
+* **Pergola Beige Configurator**
+  [https://pergola-beige.vercel.app](https://pergola-beige.vercel.app)
+
+* **Cuban Chain Customizer**
+  [https://cuban-chain-customizer.vercel.app](https://cuban-chain-customizer.vercel.app)
+
+* **3D Solar Planner Web App**
+  [https://3d-solar-planner-web-app.vercel.app](https://3d-solar-planner-web-app.vercel.app)
+
+* **Dive Pro Pre-Final**
+  [https://for-dive-pro-pre-final.vercel.app](https://for-dive-pro-pre-final.vercel.app)
+
+* **Split Layout Demo (v0-30-70)**
+  [https://v0-30-70-split-layout.vercel.app](https://v0-30-70-split-layout.vercel.app)
+
+* **Design Your Cap**
+  [https://design-your-cap.vercel.app](https://design-your-cap.vercel.app)
 
 * **Nuhi Gartenbau**
   [https://www.nuhi-gartenbau.de](https://www.nuhi-gartenbau.de)
-  Clean, fast, and brand-focused website.
 
 * **Stein Gartengestaltung**
   [https://www.stein-gartengestaltung.de](https://www.stein-gartengestaltung.de)
-  SEO-oriented website with a modern UI.
 
 * **Roomi Space (V3)**
-  [https://roomi-space-v3.vercel.app/](https://roomi-space-v3.vercel.app/)
-  Real-estate platform with refined UI/UX and fast navigation.
+  [https://roomi-space-v3.vercel.app](https://roomi-space-v3.vercel.app)
 
 * **Mimic Project**
-  [https://project-mimic-nine.vercel.app/](https://project-mimic-nine.vercel.app/)
-  Experimental platform with animated UI and structured architecture.
-
----
-
-### Tools & APIs
+  [https://project-mimic-nine.vercel.app](https://project-mimic-nine.vercel.app)
 
 * **Client API Aggregator**
   [https://client-api-aggs.onrender.com](https://client-api-aggs.onrender.com)
-  Unified API layer for synchronizing multiple external services.
 
 ---
 
