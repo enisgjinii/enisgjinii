@@ -19,7 +19,7 @@
 
 I’m a **Full-Stack Developer from Kosovo** specializing in **high-performance, immersive 3D web experiences** and **real-time product configurators**. I partner with e-commerce brands, print-on-demand platforms, manufacturers, furniture companies, fashion labels, and SaaS startups to replace static product images with interactive 3D customization tools that dramatically improve engagement, reduce return rates (often by 20–40%), and increase average order value through upsell opportunities.
 
-With **Level 2 Seller status on Fiverr (4.9/5 ★ from 15+ reviews)**, I consistently deliver production-grade configurators described by clients as “cinema-quality,” “world-class,” and “far beyond expectations.” My solutions combine **clean, maintainable architecture**, **buttery-smooth 60fps interactions**, **scalable backend systems**, and **advanced WebGL techniques** (PBR materials, environment maps, post-processing, instanced rendering, LOD).
+With **Level 2 Seller status on Fiverr (4.7/5 ★ from 15+ reviews)**, I consistently deliver production-grade configurators described by clients as “cinema-quality,” “world-class,” and “far beyond expectations.” My solutions combine **clean, maintainable architecture**, **buttery-smooth 60fps interactions**, **scalable backend systems**, and **advanced WebGL techniques** (PBR materials, environment maps, post-processing, instanced rendering, LOD).
 
 **Current focus**:
 - Building **ConfigureX** — a comprehensive SaaS platform for 3D packaging design, dieline integration, real-time visualization, and print-ready export
