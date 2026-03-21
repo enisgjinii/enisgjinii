@@ -1,5 +1,4 @@
 # Enis Gjini
-
 **Full-Stack Developer · 3D Web Specialist · Immersive Product Configurator Expert**
 
 <p align="center">
@@ -19,11 +18,11 @@
 
 ## 🌟 Professional Profile
 
-I am a Full-Stack Developer based in Kosovo, specializing in the development of high-performance immersive 3D web applications and real-time product configurators.  
+I am a Full-Stack Developer based in Kosovo, specializing in the development of high-performance immersive 3D web applications and real-time product configurators.
 
 My expertise enables e-commerce brands, manufacturers, fashion houses, furniture companies, print-on-demand platforms, and SaaS startups to replace traditional static imagery with interactive 3D customization experiences. These solutions deliver measurable outcomes, including elevated user engagement, substantial reductions in return rates (typically 20–40 %), and increased average order values through strategic upselling mechanisms.
 
-Recognized as a **Level 2 Seller on Fiverr** with a consistent **4.9/5 ★ rating across 15+ client reviews**, I deliver production-ready solutions characterized by cinema-quality visuals, flawless 60 fps performance, robust backend architecture, and advanced WebGL optimizations.  
+Recognized as a **Level 2 Seller on Fiverr** with a consistent **4.9/5 ★ rating across 15+ client reviews**, I deliver production-ready solutions characterized by cinema-quality visuals, flawless 60 fps performance, robust backend architecture, and advanced WebGL optimizations.
 
 **Current initiatives**:
 - Leading development of **ConfigureX**, a SaaS platform for 3D packaging design, dieline processing, real-time visualization, and print-ready exports
@@ -61,24 +60,16 @@ Recognized as a **Level 2 Seller on Fiverr** with a consistent **4.9/5 ★ ratin
 
 ## 🔥 Showcase Projects
 
-### ConfigureX – SaaS 3D Packaging Configurator
-Comprehensive platform enabling dieline uploads, interactive 3D folding simulations, multi-material customization, bleed zone management, barcode integration, and direct print-ready PDF generation.  
-**Stack**: Next.js 15 + React Three Fiber + Zustand + Laravel backend + Supabase  
-**Live**: [configurex.vercel.app](https://configurex.vercel.app/)
-
-### Thread Craft – Real-Time Apparel Customizer
-Advanced solution supporting unlimited color palettes, SVG/vector logo uploads, dynamic curved text, distortion grids, and procedural normal/roughness map generation — achieving consistent 60 fps across desktop and mobile devices.  
-**Stack**: React Three Fiber + Drei + GSAP + custom GLSL shaders  
-**Live Demo**: [thread-craft-one.vercel.app/config](https://thread-craft-one.vercel.app/config)
-
 ### Enterprise-Grade Client Solutions (Fiverr)
 - Furniture configurator with directional wood grain control, fabric library integration, and contextual room environments
 - Jewelry visualizer incorporating gemstone refraction, metallic transmission effects, and full 360° rotation
-- Automotive component customizer featuring carbon fiber textures and high-fidelity reflective paint simulations  
+- Automotive component customizer featuring carbon fiber textures and high-fidelity reflective paint simulations
+
 All implementations include dedicated admin dashboards for variant control and real-time synchronization.
 
 ### 3D-Enhanced SaaS Dashboards
-Interactive data visualization interfaces incorporating 3D sales heatmaps, product performance globes, and live WebSocket updates.  
+Interactive data visualization interfaces incorporating 3D sales heatmaps, product performance globes, and live WebSocket updates.
+
 **Stack**: React 19 + Recharts + Three.js integration
 
 ---
