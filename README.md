@@ -1,21 +1,24 @@
 <div align="center">
 
-<!-- Header uses shields.io which is 100% reliable on GitHub -->
-<img src="https://img.shields.io/badge/%20-ENISGJINII-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" height="60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Enis Gjinii
-
-### Full Stack Developer & Systems Architect
-
-**Real-time 3D · Scalable E-commerce · AI-Integrated Web Products**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Enis+Gjinii;Full-Stack+Architect;Real-Time+Systems+Engineer;WebGL+%2F+3D+%2F+AI+%2F+Commerce" alt="Typing SVG"/>
 
 <br/>
 
-[![Available](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Projects-2ea44f?style=flat-square&labelColor=161b22&color=2ea44f)](mailto:hello@enis.dev)
+<img src="https://img.shields.io/badge/Status-Available%20for%20Select%20Engagements-2ea44f?style=for-the-badge&logo=circle&logoColor=white&labelColor=161b22"/>
 &nbsp;
-[![Remote](https://img.shields.io/badge/Remote%20%2F%20Worldwide-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/enisgjinii)
+<img src="https://img.shields.io/badge/Location-Remote%20%C2%B7%20Worldwide-58a6ff?style=for-the-badge&logo=globe&logoColor=white&labelColor=161b22"/>
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=enisgjinii&style=flat-square&color=58a6ff&labelColor=161b22&label=Profile+Views)](https://github.com/enisgjinii)
+<img src="https://komarev.com/ghpvc/?username=enisgjinii&style=for-the-badge&color=1f6feb&labelColor=161b22&label=Profile+Views"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/hello%40enis.dev-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/linkedin%2Fin%2Fenisgjinii-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/enis.dev-%E2%86%97-58a6ff?style=flat-square&logo=safari&logoColor=white&labelColor=161b22"/>
 
 </div>
 
@@ -23,21 +26,26 @@
 
 ---
 
+<div align="center">
+
+### `Precision engineering · Zero technical debt · Delivered at velocity`
+
+</div>
+
+---
+
 <br/>
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true&card_width=400"/>
 
 ## About
 
-I build advanced web platforms for businesses that need more than off-the-shelf solutions — sitting at the intersection of **engineering precision** and **product strategy**.
+I engineer sophisticated digital platforms for organizations requiring architectural excellence beyond conventional solutions. Operating at the convergence of **high-performance systems engineering** and **strategic product architecture**, I deliver end-to-end ownership from conceptual design through production deployment.
 
-My core advantage is full-stack depth: from real-time 3D rendering and pixel-perfect interfaces to backend architecture and complex third-party integrations. I own the entire delivery.
+My technical depth spans real-time 3D graphics pipelines, pixel-perfect reactive interfaces, distributed backend systems, and seamless third-party ecosystem integrations.
 
-**Who I work with:** Product teams, agencies, and founders building technically ambitious digital products — particularly in e-commerce, manufacturing, retail, and SaaS.
-
-<br/>
-
-> *"No shortcuts. Build it right the first time."*
+**Primary collaborations:**
+Product engineering teams, digital agencies, and visionary founders developing technically complex platforms in e-commerce, advanced manufacturing, retail configurators, and enterprise SaaS.
 
 <br clear="right"/>
 
@@ -45,127 +53,14 @@ My core advantage is full-stack depth: from real-time 3D rendering and pixel-per
 
 ---
 
-<br/>
-
-## Core Services
-
-<details open>
-<summary><b>⬡ &nbsp;3D Product Configurators</b> &nbsp;—&nbsp; Real-time customization for the web</summary>
-<br/>
-
-> Interactive, real-time product customization tools built for web and mobile. Ideal for manufacturers, retailers, and brands that sell configurable products.
-
-| Capability | Detail |
-|---|---|
-| **Rendering Engine** | Three.js & React Three Fiber with custom WebGL shaders |
-| **Asset Pipeline** | Blender optimization → DRACO compression → PBR materials |
-| **Performance** | LOD management, draw call batching, mobile-first budgeting |
-| **AR Delivery** | USDZ for iOS Quick Look, GLB for Android Scene Viewer |
-| **Commerce Layer** | Deep integration with Shopify, WooCommerce, and custom carts |
-| **Architecture** | Modular component system supporting hundreds of option combinations |
-
-<br/>
-</details>
-
-<details>
-<summary><b>◈ &nbsp;E-commerce Platforms</b> &nbsp;—&nbsp; Custom commerce beyond out-of-the-box</summary>
-<br/>
-
-> Built for businesses whose requirements exceed what standard platforms offer. Headless or hybrid depending on scale and use case.
-
-| Capability | Detail |
-|---|---|
-| **Shopify** | Storefront API, custom app development, theme architecture |
-| **Headless** | Next.js + GraphQL frontend against any commerce backend |
-| **Pricing Logic** | Dynamic pricing engines, discount rules, bundle builders |
-| **Admin Tooling** | Custom dashboards, fulfillment workflows, inventory tools |
-| **Checkout Flows** | Subscription, configurator-to-cart, multi-step experiences |
-| **Integrations** | ERP, CRM, PIM, warehouse, and payment gateway connections |
-
-<br/>
-</details>
-
-<details>
-<summary><b>◉ &nbsp;Interactive 3D Experiences</b> &nbsp;—&nbsp; Immersive web environments, no plugins</summary>
-<br/>
-
-> Web-based 3D environments for marketing, storytelling, and product visualization — no app downloads required.
-
-| Capability | Detail |
-|---|---|
-| **Scene Design** | Camera transitions, environment lighting, atmospheric effects |
-| **UI in 3D** | Real-time interface elements embedded within 3D scenes |
-| **Post-processing** | Bloom, depth of field, SSAO, motion blur, color grading |
-| **Interaction** | Custom pointer, gesture, and physics-based interaction systems |
-| **Performance** | 60fps target on mid-range mobile devices |
-| **XR Ready** | WebXR-compatible architecture for VR/AR deployment |
-
-<br/>
-</details>
-
-<details>
-<summary><b>◎ &nbsp;AI-Integrated Features</b> &nbsp;—&nbsp; Generative AI in production systems</summary>
-<br/>
-
-> Practical AI integration into real products — commercially deployed features that reduce friction and increase output.
-
-| Capability | Detail |
-|---|---|
-| **Asset Generation** | AI-driven texture, material, and 3D variant generation |
-| **Design Workflows** | Prompt-to-configurator pipelines for design teams |
-| **Optimization** | Automated compression, LOD, and format conversion |
-| **Product Discovery** | LLM-powered recommendation and filtering systems |
-| **Customer Tools** | AI-assisted product selection and specification tools |
-| **Generative Variants** | Automated product variant generation from base assets |
-
-<br/>
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## Technology Stack
+## At a Glance
 
 <div align="center">
 
-**Frontend**&nbsp;&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square)
-
-<br/>
-
-**3D & Rendering**&nbsp;&nbsp;
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
-![R3F](https://img.shields.io/badge/React%20Three%20Fiber-000?style=flat-square&logo=react&logoColor=61DAFB)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![PBR](https://img.shields.io/badge/PBR-58a6ff?style=flat-square)
-![DRACO](https://img.shields.io/badge/DRACO-4285F4?style=flat-square)
-![AR](https://img.shields.io/badge/USDZ%20%2F%20GLB-000?style=flat-square&logo=apple&logoColor=white)
-
-<br/>
-
-**Backend & Infra**&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-<br/>
-
-**Commerce & AI**&nbsp;&nbsp;
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/60%20FPS-Target%20on%20Mobile-1f6feb?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/10%E2%81%B4%2B-Config%20Combinations-58a6ff?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/WebGL%20%2F%20WebGPU-Real--Time%203D-7c3aed?style=for-the-badge&labelColor=0d1117"/> |
+| <img src="https://img.shields.io/badge/Headless-Commerce%20Architectures-2ea44f?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/AR%20%2F%20VR-WebXR%20Ready-f59e0b?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/Production-AI%20Integration-e11d48?style=for-the-badge&labelColor=0d1117"/> |
 
 </div>
 
@@ -173,15 +68,158 @@ My core advantage is full-stack depth: from real-time 3D rendering and pixel-per
 
 ---
 
+## Core Services
+
+<details open>
+<summary><b>⬡ &nbsp;Real-Time 3D Product Configurators</b> &nbsp;—&nbsp; Enterprise-grade interactive customization</summary>
+
 <br/>
+
+> High-fidelity, real-time product configurators engineered for web and cross-platform deployment. Designed for manufacturers and retailers requiring complex combinatorial logic and sub-second response times.
+
+<br/>
+
+| Capability | Specification |
+|---|---|
+| **Rendering Engine** | Three.js + React Three Fiber · Custom WebGL shaders · Compute shaders |
+| **Asset Pipeline** | Blender → glTF 2.0 · DRACO compression · Mesh quantization · PBR workflows |
+| **Performance** | LOD systems · Instanced rendering · Draw-call batching · Occlusion culling |
+| **AR / VR** | USDZ (iOS Quick Look) · GLB (Android Scene Viewer) · WebXR-ready |
+| **Commerce** | Headless Shopify Storefront API · WooCommerce GraphQL · Custom checkout |
+| **Architecture** | State-machine driven · 10⁴+ combinations · Constraint satisfaction solving |
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◈ &nbsp;Enterprise E-Commerce Platforms</b> &nbsp;—&nbsp; Beyond out-of-the-box commerce</summary>
+
+<br/>
+
+> Custom commerce architectures for organizations whose requirements exceed standard SaaS platforms. Headless, hybrid, or composable implementations optimized for scale.
+
+<br/>
+
+| Capability | Specification |
+|---|---|
+| **Foundation** | Shopify Hydrogen/Storefront API · Custom Next.js + GraphQL frontends |
+| **Headless** | Next.js App Router · tRPC/GraphQL · Any commerce backend |
+| **Business Logic** | Dynamic pricing · Rule engines · Bundle configurators · Real-time inventory |
+| **Operations** | Custom admin interfaces · Fulfillment workflows · ERP/CRM/PIM sync |
+| **Conversion** | Subscription models · Configurator-to-cart pipelines · A/B testing |
+| **Integrations** | SAP · NetSuite · HubSpot · Salesforce · Multi-gateway payments |
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◉ &nbsp;Immersive 3D Web Experiences</b> &nbsp;—&nbsp; Plugin-free, browser-native 3D</summary>
+
+<br/>
+
+> Production-grade interactive 3D experiences for marketing, product storytelling, and spatial visualization — fully accessible via standard web browsers.
+
+<br/>
+
+| Capability | Specification |
+|---|---|
+| **Scene Orchestration** | Advanced camera systems · Cinematic transitions · Dynamic environment lighting |
+| **3D UI Systems** | Embedded real-time UI · Synchronized 3D interaction layers |
+| **Post-Processing** | Bloom · DOF · SSAO · Motion blur · Filmic tone mapping · Color grading |
+| **Interaction** | Physics-based controls · Gesture recognition · Raycasting · Custom pointer events |
+| **Performance** | Sustained 60 FPS on mid-range mobile · Adaptive quality scaling |
+| **XR Readiness** | WebXR API integration for seamless VR/AR deployment |
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>◎ &nbsp;Production AI Integration</b> &nbsp;—&nbsp; Commercially deployed generative intelligence</summary>
+
+<br/>
+
+> Strategic AI implementation within production systems — delivering measurable efficiency gains and enhanced user experiences.
+
+<br/>
+
+| Capability | Specification |
+|---|---|
+| **Generative Assets** | AI-driven texture synthesis · Material generation · 3D variant creation |
+| **Design Automation** | Prompt-to-configurator workflows · Automated design system generation |
+| **Optimization** | Automated compression · LOD generation · Format transcoding |
+| **Discovery** | LLM-powered semantic search · Recommendation engines · Constraint filtering |
+| **Assistance** | AI-guided configuration · Specification assistants |
+| **Variants** | Real-time generative product variants from parametric base models |
+
+<br/>
+
+</details>
+
+<br/>
+
+---
+
+## Technology Portfolio
+
+<div align="center">
+
+**Frontend & Interaction**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square)
+
+<br/>
+
+**3D & Real-Time Systems**
+
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/R3F-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![WebXR](https://img.shields.io/badge/WebXR-000?style=flat-square)
+![glTF](https://img.shields.io/badge/glTF%202.0-87CEEB?style=flat-square)
+![DRACO](https://img.shields.io/badge/DRACO-4285F4?style=flat-square)
+
+<br/>
+
+**Backend & Infrastructure**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+
+<br/>
+
+**Commerce & AI**
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+</div>
+
+<br/>
+
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&hide=html"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=8b949e&sideLabels=8b949e&currStreakNum=white&sideNums=white"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&dates=8b949e&sideLabels=8b949e&currStreakNum=white&sideNums=white"/>
 
 <br/><br/>
 
@@ -193,32 +231,34 @@ My core advantage is full-stack depth: from real-time 3D rendering and pixel-per
 
 ---
 
-<br/>
-
-## How I Work
+## Engineering Philosophy
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Architecture Before Code**
-
-Every engagement starts with understanding system requirements, data flows, and long-term scaling needs before writing a line. This prevents expensive rewrites later.
-
-**Performance is Non-negotiable**
-
-Rendering budgets, bundle optimization, Core Web Vitals, and 60fps targets are part of the definition of done — not something addressed post-launch.
+### 🏗 System Architecture First
+Every project begins with comprehensive system design, data flow modeling, and scalability analysis. This foundational approach eliminates costly architectural refactors downstream.
 
 </td>
 <td width="50%" valign="top">
 
-**Aligned with Business Outcomes**
+### ⚡ Performance as Requirement
+Rendering budgets, bundle optimization, Core Web Vitals compliance, and sustained 60 FPS targets are non-negotiable components of the definition of done.
 
-Technical decisions are always evaluated against commercial objectives. The best architecture is the one that ships, scales, and converts.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Full Ownership**
+### 📈 Business-Aligned Strategy
+Every architectural decision is evaluated against commercial objectives — solutions that ship efficiently, scale reliably, and drive measurable conversion and retention.
 
-I manage the complete delivery — from system design through deployment. No handoffs at specialty boundaries, no gaps in accountability.
+</td>
+<td width="50%" valign="top">
+
+### 🔄 End-to-End Ownership
+Full accountability across the entire delivery lifecycle — from initial architecture through deployment, monitoring, and ongoing optimization. No fragmented handoffs.
 
 </td>
 </tr>
@@ -228,31 +268,26 @@ I manage the complete delivery — from system design through deployment. No han
 
 ---
 
-<br/>
-
-## Currently Focused On
+## Current Technical Focus
 
 ```diff
-+ Scalable multi-tenant 3D configurator architecture for retail and manufacturing
-+ High-performance WebGL rendering pipelines optimized for mobile devices
-+ Generative AI integrated into real-time 3D product customization workflows
-+ Advanced headless e-commerce customization with Shopify Storefront API
-~ Exploring WebGPU for next-generation browser rendering performance
-~ Researching spatial UI patterns for WebXR environments
++ Scalable multi-tenant 3D configurator frameworks for enterprise retail and manufacturing
++ Next-generation WebGL/WebGPU rendering pipelines optimized for heterogeneous devices
++ Production-grade generative AI integration within real-time 3D customization workflows
++ Advanced headless commerce architectures leveraging Shopify Storefront API v2025
+~ Pioneering WebGPU compute shader implementations for browser-based rendering
+~ Developing spatial computing UI/UX patterns for WebXR and immersive environments
 ```
 
 <br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## Open to New Projects
+## Let's Build Something Exceptional
 
-I take on a limited number of engagements at a time to maintain quality and focus.<br/>
-If you're building something technically ambitious, I'd like to hear about it.
+I maintain **selective availability** for a limited number of high-impact projects to ensure uncompromising quality and deep technical focus.
 
 <br/>
 
@@ -264,10 +299,10 @@ If you're building something technically ambitious, I'd like to hear about it.
 
 <br/>
 
-*Available for project-based engagements, long-term contracts, and technical consulting.*
+*Available for project-based engagements, long-term technical partnerships, and strategic consulting.*
 
 <br/>
 
-![footer](https://img.shields.io/badge/%20-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&label=%20)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
