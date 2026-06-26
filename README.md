@@ -1,388 +1,377 @@
+<!--
+  GitHub Profile README · Redesigned UI
+  Theme: Premium dark command-center / 3D systems architect
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=&fontSize=0" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0b0f19,25:111827,55:1e3a8a,80:2563eb,100:60a5fa&text=ENIS%20GJINI&fontColor=000000&fontSize=46&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20WebGL%20Architect%20%C2%B7%203D%20Configurator%20Specialist&descAlignY=66&descSize=14&descColor=000000" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Enis+Gjini;Full-Stack+%26+WebGL+Architect;Real-Time+3D+Systems+Engineer;Production+AI+Integration+Specialist" alt="Typing SVG"/>
 
-<br/>
+<br />
 
-<img src="https://img.shields.io/badge/Status-Selective%20Availability-2ea44f?style=for-the-badge&logo=circle&logoColor=white&labelColor=161b22"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Engagement-Remote%20%C2%B7%20Worldwide-58a6ff?style=for-the-badge&logo=globe&logoColor=white&labelColor=161b22"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=enisgjinii&style=for-the-badge&color=1f6feb&labelColor=161b22&label=Profile+Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=780&lines=I+build+production-grade+3D+web+systems.;Shopify+%2B+SaaS+%2B+AI+automation.;Real-time+configurators+that+convert.;Clean+architecture.+Fast+interfaces.+Zero+nonsense." alt="Typing SVG" />
 
-<br/><br/>
+<br /><br />
 
-<a href="mailto:hello@enis.dev"><img src="https://img.shields.io/badge/hello%40enis.dev-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/enisgjinii"><img src="https://img.shields.io/badge/linkedin%2Fin%2Fenisgjinii-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22"/></a>
-&nbsp;
-<a href="https://enis.dev"><img src="https://img.shields.io/badge/enis.dev-%E2%86%97-58a6ff?style=flat-square&logo=safari&logoColor=white&labelColor=161b22"/></a>
+<a href="mailto:hello@enis.dev">
+  <img src="https://img.shields.io/badge/Email-hello%40enis.dev-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://linkedin.com/in/enisgjinii">
+  <img src="https://img.shields.io/badge/LinkedIn-enisgjinii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://enis.dev">
+  <img src="https://img.shields.io/badge/Portfolio-enis.dev-60a5fa?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=enisgjinii&style=for-the-badge&color=2563eb&labelColor=111827&label=Visitors" />
 
-<br/><br/>
+<br /><br />
 
 <sub>
-<a href="#about">About</a> · <a href="#core-services">Services</a> · <a href="#how-i-work">How I Work</a> · <a href="#technology-stack">Stack</a> · <a href="#github-analytics">Analytics</a> · <a href="#selected-work">Work</a> · <a href="#engineering-philosophy">Philosophy</a> · <a href="#get-in-touch">Contact</a>
+  <a href="#mission-control">Mission Control</a> •
+  <a href="#what-i-build">What I Build</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#selected-systems">Selected Systems</a> •
+  <a href="#github-intelligence">GitHub Intelligence</a> •
+  <a href="#work-with-me">Work With Me</a>
 </sub>
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-### `System Architecture · Real-Time Rendering · Production AI · Zero Technical Debt`
+### `Full-stack execution for complex commerce, 3D configurators, and AI-powered product workflows.`
 
 </div>
 
----
+<br />
 
-<br/>
-
-## About
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true&card_width=380"/>
-
-I engineer real-time 3D and commerce platforms for teams whose requirements outgrow off-the-shelf tooling — working across rendering pipelines, reactive interfaces, distributed backend systems, and AI-assisted workflows, with end-to-end ownership from architecture through production.
-
-**I work best with:** product engineering teams, digital agencies, and founders building technically demanding platforms in e-commerce, manufacturing visualization, retail configuration, and SaaS.
-
-<br clear="right"/>
-
-<table>
-<tr><td>🧭</td><td><b>Engagement Mode</b></td><td>Remote-first, async-friendly, with overlap hours by arrangement</td></tr>
-<tr><td>🤝</td><td><b>Engagement Types</b></td><td>Fixed-scope projects · technical retainers · architecture consulting</td></tr>
-<tr><td>🏭</td><td><b>Primary Domains</b></td><td>E-commerce · retail configurators · manufacturing visualization · SaaS</td></tr>
-<tr><td>📐</td><td><b>Working Style</b></td><td>Written scope before code · milestone-based delivery · no silent scope creep</td></tr>
-</table>
-
-<br/>
-
----
-
-## Impact at a Glance
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/60%20FPS-Target%20on%20Mobile-1f6feb?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/10%E2%81%B4%2B-Config%20Combinations-58a6ff?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/WebGL%20%2F%20WebGPU-Real--Time%203D-7c3aed?style=for-the-badge&labelColor=0d1117"/> |
-| <img src="https://img.shields.io/badge/Headless-Commerce%20Architectures-2ea44f?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/AR%20%2F%20VR-WebXR%20Ready-f59e0b?style=for-the-badge&labelColor=0d1117"/> | <img src="https://img.shields.io/badge/Production-AI%20Integration-e11d48?style=for-the-badge&labelColor=0d1117"/> |
-
-</div>
-
-<br/>
-
----
-
-## Core Services
-
-<details open>
-<summary><b>⬡ &nbsp;Real-Time 3D Product Configurators</b> &nbsp;—&nbsp; Enterprise-grade interactive customization</summary>
-
-<br/>
-
-> High-fidelity, real-time product configurators engineered for web and cross-platform deployment, built for manufacturers and retailers requiring complex combinatorial logic and sub-second response times.
-
-<br/>
-
-| Capability | Specification |
-|---|---|
-| **Rendering Engine** | Three.js + React Three Fiber · Custom WebGL shaders · Compute shaders |
-| **Asset Pipeline** | Blender → glTF 2.0 · DRACO compression · Mesh quantization · PBR workflows |
-| **Performance** | LOD systems · Instanced rendering · Draw-call batching · Occlusion culling |
-| **AR / VR** | USDZ (iOS Quick Look) · GLB (Android Scene Viewer) · WebXR-ready |
-| **Commerce** | Headless Shopify Storefront API · WooCommerce GraphQL · Custom checkout |
-| **Architecture** | State-machine driven · 10⁴+ combinations · Constraint satisfaction solving |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>◈ &nbsp;Enterprise E-Commerce Platforms</b> &nbsp;—&nbsp; Beyond out-of-the-box commerce</summary>
-
-<br/>
-
-> Custom commerce architectures for organizations whose requirements exceed standard SaaS platforms — headless, hybrid, or composable implementations optimized for scale.
-
-<br/>
-
-| Capability | Specification |
-|---|---|
-| **Foundation** | Shopify Hydrogen/Storefront API · Custom Next.js + GraphQL frontends |
-| **Headless** | Next.js App Router · tRPC/GraphQL · Any commerce backend |
-| **Business Logic** | Dynamic pricing · Rule engines · Bundle configurators · Real-time inventory |
-| **Operations** | Custom admin interfaces · Fulfillment workflows · ERP/CRM/PIM sync |
-| **Conversion** | Subscription models · Configurator-to-cart pipelines · A/B testing |
-| **Integrations** | SAP · NetSuite · HubSpot · Salesforce · Multi-gateway payments |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>◉ &nbsp;Immersive 3D Web Experiences</b> &nbsp;—&nbsp; Plugin-free, browser-native 3D</summary>
-
-<br/>
-
-> Production-grade interactive 3D experiences for marketing, product storytelling, and spatial visualization — fully accessible through standard web browsers.
-
-<br/>
-
-| Capability | Specification |
-|---|---|
-| **Scene Orchestration** | Advanced camera systems · Cinematic transitions · Dynamic environment lighting |
-| **3D UI Systems** | Embedded real-time UI · Synchronized 3D interaction layers |
-| **Post-Processing** | Bloom · DOF · SSAO · Motion blur · Filmic tone mapping · Color grading |
-| **Interaction** | Physics-based controls · Gesture recognition · Raycasting · Custom pointer events |
-| **Performance** | Sustained 60 FPS on mid-range mobile · Adaptive quality scaling |
-| **XR Readiness** | WebXR API integration for seamless VR/AR deployment |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>◎ &nbsp;Production AI Integration</b> &nbsp;—&nbsp; Commercially deployed generative intelligence</summary>
-
-<br/>
-
-> Strategic AI implementation inside production systems, delivering measurable efficiency gains and enhanced user experiences.
-
-<br/>
-
-| Capability | Specification |
-|---|---|
-| **Generative Assets** | AI-driven texture synthesis · Material generation · 3D variant creation |
-| **Design Automation** | Prompt-to-configurator workflows · Automated design system generation |
-| **Optimization** | Automated compression · LOD generation · Format transcoding |
-| **Discovery** | LLM-powered semantic search · Recommendation engines · Constraint filtering |
-| **Assistance** | AI-guided configuration · Specification assistants |
-| **Variants** | Real-time generative product variants from parametric base models |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>⬢ &nbsp;Architecture & Performance Audits</b> &nbsp;—&nbsp; Technical due diligence and rescue engagements</summary>
-
-<br/>
-
-> Independent review of an existing 3D, commerce, or full-stack codebase — surfacing architectural risk and performance bottlenecks before they become production incidents.
-
-<br/>
-
-| Capability | Specification |
-|---|---|
-| **Codebase Review** | Architecture mapping · Dependency audit · Technical debt inventory |
-| **Performance Profiling** | Rendering budget analysis · Bundle audit · Core Web Vitals diagnostics |
-| **Risk Reporting** | Prioritized findings · Severity ranking · Remediation roadmap |
-| **Scaling Readiness** | Load-path analysis · Data-model review · Infrastructure recommendations |
-| **Output** | Written report · Stakeholder walkthrough · Optional implementation support |
-
-<br/>
-
-</details>
-
-<br/>
-
----
-
-## How I Work
-
-**Process**
-
-| Phase | Focus | Deliverable |
-|---|---|---|
-| **01 · Discovery & Scoping** | Requirements, constraints, technical feasibility | Written scope & architecture brief |
-| **02 · System Architecture** | Data flow, state model, performance budget | Architecture diagram & tech spec |
-| **03 · Prototype & Validate** | Core mechanics proven in an isolated build | Interactive prototype |
-| **04 · Production Build** | Full implementation against the spec | Feature-complete build in staging |
-| **05 · QA & Performance Hardening** | Cross-device testing, profiling, optimization | Performance report & fixes |
-| **06 · Launch & Handoff** | Deployment, documentation, knowledge transfer | Live release & handoff docs |
-
-<br/>
-
-**Engagement Models**
-
-| Model | Best For | Structure |
-|---|---|---|
-| **Fixed-Scope Project** | A defined feature, MVP, or configurator build | Milestone-based pricing · written spec · fixed timeline |
-| **Technical Retainer** | Ongoing development on a product or platform | Monthly capacity block · priority response |
-| **Architecture Consulting** | Performance audits, technical due diligence, rescue projects | Scoped review with a written report |
-
-<br/>
-
----
-
-## Technology Stack
-
-<div align="center">
-
-**Frontend & Real-Time 3D**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind&theme=dark"/>
-
-<br/><br/>
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=nodejs,graphql,php,mysql,firebase,docker,aws,vercel&theme=dark"/>
-
-<br/><br/>
-
-**Tooling & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vite,sass,linux&theme=dark"/>
-
-<br/><br/>
-
-**Commerce, AI & Open Standards**
-
-<img src="https://img.shields.io/badge/Shopify%20Hydrogen-96BF48?style=flat-square&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebXR-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/glTF%202.0-87CEEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/DRACO-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebGPU-f59e0b?style=flat-square"/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true&card_width=400"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=10&hide=html"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&dates=8b949e&sideLabels=8b949e&currStreakNum=white&sideNums=white"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enisgjinii&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=6"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=enisgjinii&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
-<br/>
-
----
-
-## Selected Work
-
-> *Swap these placeholders for 3–4 real case studies — configurator builds, headless commerce migrations, and AI integrations work especially well here. Lead each with the outcome, not just the stack.*
-
-| Project | Type | Highlights | Stack |
-|---|---|---|---|
-| **[Project Name]** | 3D Product Configurator | *[e.g. "10,000+ SKU combinations · 60fps on mid-range mobile · WebXR AR preview"]* | Three.js · R3F · Shopify |
-| **[Project Name]** | Headless Commerce Migration | *[e.g. "Replatformed to a headless Next.js storefront — faster loads, fewer third-party scripts"]* | Next.js · GraphQL · Shopify Hydrogen |
-| **[Project Name]** | AI-Assisted Configuration | *[e.g. "LLM-guided spec assistant cut manual configuration steps"]* | OpenAI · LangChain · Node.js |
-
-<br/>
-
----
-
-## Engineering Philosophy
+## Mission Control
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="58%" valign="top">
 
-### 🏗 System Architecture First
-Every engagement begins with system design, data-flow modeling, and scalability analysis — before a single line of production code.
+### 👋 About Me
 
-</td>
-<td width="33%" valign="top">
+I design and build high-performance web platforms where standard templates are not enough — especially **3D product configurators**, **Shopify/e-commerce systems**, **SaaS dashboards**, and **AI-assisted workflows**.
 
-### ⚡ Performance as Requirement
-Rendering budgets, bundle size, Core Web Vitals, and sustained 60 FPS are part of the definition of done — not a later optimization pass.
+My work sits between polished frontend UX, scalable backend logic, and real-time 3D rendering. I care about shipping products that look premium, load fast, and survive real business use.
 
-</td>
-<td width="33%" valign="top">
+<br />
 
-### 📈 Business-Aligned Strategy
-Architectural decisions are weighed against commercial outcomes: conversion, retention, and total cost of ownership.
+**Current focus:**
 
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🔄 End-to-End Ownership
-Full accountability from architecture through deployment and ongoing optimization — no fragmented handoffs.
-
-</td>
-<td width="33%" valign="top">
-
-### 🗒 Transparent Communication
-Written scope, milestone check-ins, and early flags on risk — so timelines hold and there are no surprises.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔬 Continuous Refinement
-Profiling, monitoring, and iteration don't stop at launch — systems are tuned against real usage data.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Current Focus
-
-```diff
-+ Multi-tenant 3D configurator frameworks for enterprise retail and manufacturing
-+ WebGL/WebGPU rendering pipelines optimized for heterogeneous devices
-+ Production-grade generative AI workflows inside real-time 3D customization
-+ Headless commerce architectures on Shopify Storefront API (2025+)
-~ WebGPU compute shader experiments for browser-based rendering
-~ Spatial computing UI/UX patterns for WebXR and immersive environments
+```txt
+3D Configurators  →  WebGL / Three.js / R3F
+Commerce Systems  →  Shopify / Headless / Custom Checkout
+SaaS Platforms    →  React / Next.js / Node / PHP
+AI Workflows      →  Automation / Assistants / Product Logic
 ```
 
-<br/>
+</td>
+<td width="42%" valign="top">
+
+### ⚡ Snapshot
+
+| Signal | Details |
+|---|---|
+| **Role** | Full Stack Developer |
+| **Specialty** | 3D Configurators + WebGL |
+| **Frontend** | React, Next.js, Three.js |
+| **Backend** | PHP, Node.js, MySQL, APIs |
+| **Commerce** | Shopify, WooCommerce, Headless |
+| **Delivery** | Remote-first, async-friendly |
+| **Style** | Fast, structured, production-minded |
+
+<br />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+
+</td>
+</tr>
+</table>
+
+<br />
 
 ---
 
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧊 3D Product Configurators
+
+Interactive product builders with real-time previews, dynamic options, pricing logic, asset pipelines, and cart/order integrations.
+
+```txt
+Three.js · React Three Fiber · GLB/GLTF · Blender
+PBR materials · Variant logic · Uploads · PDF export
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Shopify & E-Commerce Systems
+
+Custom storefront features, SKU/variant logic, headless commerce flows, custom product builders, and admin tools.
+
+```txt
+Shopify Storefront API · Liquid · Hydrogen · GraphQL
+Custom checkout flows · Inventory/SKU logic · Automation
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI-Powered Product Workflows
+
+AI assistants, automation flows, product recommendation logic, internal tools, and customer-facing smart configuration helpers.
+
+```txt
+OpenAI · LangChain · Node.js · Prompt workflows
+Semantic search · Data extraction · Agentic utilities
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 SaaS & Full-Stack Platforms
+
+Dashboards, API systems, production admin panels, user management, payments, file workflows, and scalable backend architecture.
+
+```txt
+React · Next.js · PHP · Node.js · MySQL
+Firebase · Supabase · Stripe · REST/GraphQL APIs
+```
+
+</td>
+</tr>
+</table>
+
+<br />
+
 <div align="center">
 
-## Get In Touch
+<img src="https://img.shields.io/badge/60FPS-Mobile%20Target-2563eb?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/10k%2B-Configuration%20Combinations-7c3aed?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/WebGL-Real%20Time%203D-06b6d4?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/AI-Automation%20Ready-22c55e?style=for-the-badge&labelColor=020617" />
 
-Selective availability for a limited number of high-impact engagements — fixed-scope builds, technical retainers, and architecture consulting.
+</div>
 
-<br/>
+<br />
 
-<a href="mailto:hello@enis.dev"><img src="https://img.shields.io/badge/hello%40enis.dev-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22"/></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/enisgjinii"><img src="https://img.shields.io/badge/enisgjinii-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22"/></a>
-&nbsp;&nbsp;
-<a href="https://enis.dev"><img src="https://img.shields.io/badge/enis.dev-View%20Portfolio-58a6ff?style=for-the-badge&logo=safari&logoColor=white&labelColor=161b22"/></a>
+---
 
-<br/><br/>
+## Tech Stack
 
-*Available for project-based engagements, long-term technical partnerships, and strategic consulting.*
+<div align="center">
 
-<br/>
+### Frontend / UI / 3D
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,figma&theme=dark" />
+
+<br /><br />
+
+### Backend / Data / Infrastructure
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,firebase,supabase,docker,aws,vercel&theme=dark" />
+
+<br /><br />
+
+### Commerce / AI / Tooling
+
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/glTF%202.0-60a5fa?style=flat-square" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+<br />
+
+---
+
+## Selected Systems
+
+<table>
+<tr>
+<th align="left">System</th>
+<th align="left">Category</th>
+<th align="left">What it solves</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><b>ConfigureXK</b></td>
+<td>3D Configurator Platform</td>
+<td>Reusable framework for product customization, previews, pricing, and production-ready ordering flows.</td>
+<td>React · Three.js · WebGL · APIs</td>
+</tr>
+<tr>
+<td><b>Shopify Variant/SKU Engine</b></td>
+<td>E-Commerce Infrastructure</td>
+<td>Centralized SKU, garment, color, size, and pricing logic for cleaner product operations.</td>
+<td>Shopify · Liquid · JS · API</td>
+</tr>
+<tr>
+<td><b>3D Apparel Customizer</b></td>
+<td>Retail Visualization</td>
+<td>Interactive customization for apparel with materials, logo placement, product options, and export flow.</td>
+<td>Three.js · GLB · React</td>
+</tr>
+<tr>
+<td><b>AI-Assisted Product Workflows</b></td>
+<td>Automation</td>
+<td>Smart product guidance, content generation, workflow automation, and internal assistant tooling.</td>
+<td>OpenAI · Node.js · APIs</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## Delivery System
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 01 · Scope
+
+Clear written requirements before code starts.
+
+- goals
+- constraints
+- user flows
+- data model
+- delivery milestones
+
+</td>
+<td width="33%" valign="top">
+
+### 02 · Build
+
+Fast implementation with production structure.
+
+- clean components
+- scalable APIs
+- responsive UI
+- performance budget
+- real device testing
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Launch
+
+Polish, deploy, document, and hand off.
+
+- QA pass
+- optimization
+- deployment
+- documentation
+- support options
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## GitHub Intelligence
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&bg_color=0d1117&langs_count=10&hide=html" />
+
+<br /><br />
+
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&dates=94A3B8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br /><br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=enisgjinii&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=10" />
+
+</div>
+
+<br />
+
+---
+
+## Engineering Rules
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ What I optimize for
+
+- Fast first load and smooth interaction
+- Clean state and predictable data flow
+- Mobile-friendly 3D performance
+- Maintainable code after handoff
+- Business logic that matches real operations
+
+</td>
+<td width="50%" valign="top">
+
+### ❌ What I avoid
+
+- Over-engineered features with no business value
+- Silent scope creep
+- Fragile animation-heavy interfaces
+- Bloated dependencies
+- Code that only works on one machine
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
+## Work With Me
+
+<div align="center">
+
+### Building a configurator, Shopify system, SaaS tool, or AI workflow?
+
+<br />
+
+<a href="mailto:hello@enis.dev">
+  <img src="https://img.shields.io/badge/Start%20a%20Project-Email%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://linkedin.com/in/enisgjinii">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+</a>
+<a href="https://enis.dev">
+  <img src="https://img.shields.io/badge/View-Portfolio-60a5fa?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827" />
+</a>
+
+<br /><br />
+
+```txt
+Available for: 3D configurators · Shopify systems · SaaS platforms · AI automation · technical retainers
+```
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,50:0f172a,100:050816" />
 
 </div>
