@@ -1,94 +1,140 @@
 <!--
-  GitHub Profile README · Redesigned UI
-  Theme: Premium dark command-center / 3D systems architect
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                      ENIS GJINI · SYSTEM PROFILE                   ║
+  ║         Full-Stack · WebGL · Commerce · SaaS · AI Systems          ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0b0f19,25:111827,55:1e3a8a,80:2563eb,100:60a5fa&text=ENIS%20GJINI&fontColor=000000&fontSize=46&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20WebGL%20Architect%20%C2%B7%203D%20Configurator%20Specialist&descAlignY=66&descSize=14&descColor=000000" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:020617,22:0f172a,48:172554,72:1d4ed8,100:38bdf8&text=ENIS%20GJINI&fontColor=ffffff&fontSize=50&fontAlignY=39&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20WEBGL%20ARCHITECT%20%E2%80%A2%203D%20COMMERCE%20SYSTEMS&descAlignY=62&descSize=14&descColor=cbd5e1&animation=fadeIn" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=60A5FA&center=true&vCenter=true&width=780&lines=I+build+production-grade+3D+web+systems.;Shopify+%2B+SaaS+%2B+AI+automation.;Real-time+configurators+that+convert.;Clean+architecture.+Fast+interfaces.+Zero+nonsense." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=650&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+systems+standard+templates+cannot+handle.;Real-time+3D+commerce.+SaaS.+AI+automation.;Frontend+precision+%C3%97+backend+architecture.;From+product+logic+to+production+deployment." />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-22c55e?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/FOCUS-3D%20COMMERCE-2563eb?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/MODE-PRODUCTION-7c3aed?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/LOCATION-REMOTE-06b6d4?style=for-the-badge&labelColor=020617" />
 
 <br /><br />
 
 <a href="mailto:hello@enis.dev">
-  <img src="https://img.shields.io/badge/Email-hello%40enis.dev-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/EMAIL-hello%40enis.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
 </a>
 <a href="https://linkedin.com/in/enisgjinii">
-  <img src="https://img.shields.io/badge/LinkedIn-enisgjinii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/LINKEDIN-enisgjinii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
 </a>
 <a href="https://enis.dev">
-  <img src="https://img.shields.io/badge/Portfolio-enis.dev-60a5fa?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-enis.dev-38bdf8?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=enisgjinii&style=for-the-badge&color=2563eb&labelColor=111827&label=Visitors" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=enisgjinii&style=flat-square&color=2563eb&labelColor=020617&label=PROFILE+SIGNALS" />
 
 <br /><br />
 
 <sub>
-  <a href="#mission-control">Mission Control</a> •
-  <a href="#what-i-build">What I Build</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#selected-systems">Selected Systems</a> •
-  <a href="#github-intelligence">GitHub Intelligence</a> •
-  <a href="#work-with-me">Work With Me</a>
+<a href="#-system-overview">OVERVIEW</a>
+&nbsp;•&nbsp;
+<a href="#-architecture-map">ARCHITECTURE</a>
+&nbsp;•&nbsp;
+<a href="#-capability-matrix">CAPABILITIES</a>
+&nbsp;•&nbsp;
+<a href="#-selected-systems">SYSTEMS</a>
+&nbsp;•&nbsp;
+<a href="#-technology-core">STACK</a>
+&nbsp;•&nbsp;
+<a href="#-engineering-protocol">PROTOCOL</a>
+&nbsp;•&nbsp;
+<a href="#-github-telemetry">TELEMETRY</a>
+&nbsp;•&nbsp;
+<a href="#-initialize-a-project">CONTACT</a>
 </sub>
 
 </div>
 
----
-
-<div align="center">
-
-### `Full-stack execution for complex commerce, 3D configurators, and AI-powered product workflows.`
-
-</div>
-
 <br />
 
-## Mission Control
+---
+
+# ⚡ System Overview
+
+```txt
+┌──────────────────────────────────────────────────────────────────────┐
+│  ENGINEER        ENIS GJINI                                         │
+│  PRIMARY ROLE    FULL-STACK DEVELOPER                               │
+│  SPECIALTY       3D CONFIGURATORS / WEBGL / PRODUCT SYSTEMS         │
+│  FRONTEND        REACT / NEXT.JS / THREE.JS                         │
+│  BACKEND         PHP / NODE.JS / MYSQL / API SYSTEMS                │
+│  COMMERCE        SHOPIFY / WOOCOMMERCE / HEADLESS                   │
+│  AUTOMATION      AI WORKFLOWS / ASSISTANTS / PRODUCT LOGIC          │
+│  DELIVERY        REMOTE / ASYNC / PRODUCTION-FIRST                  │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+I engineer **high-performance digital products where normal website architecture stops being enough**.
+
+My work lives at the intersection of:
+
+**Product UX × real-time 3D × commerce logic × backend architecture × automation**
+
+I specialize in turning complex business requirements into interfaces and systems that remain understandable, scalable, responsive, and usable in production.
+
+<br />
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="25%" align="center">
 
-### 👋 About Me
+### `01`
 
-I design and build high-performance web platforms where standard templates are not enough — especially **3D product configurators**, **Shopify/e-commerce systems**, **SaaS dashboards**, and **AI-assisted workflows**.
+**REAL-TIME 3D**
 
-My work sits between polished frontend UX, scalable backend logic, and real-time 3D rendering. I care about shipping products that look premium, load fast, and survive real business use.
-
-<br />
-
-**Current focus:**
-
-```txt
-3D Configurators  →  WebGL / Three.js / R3F
-Commerce Systems  →  Shopify / Headless / Custom Checkout
-SaaS Platforms    →  React / Next.js / Node / PHP
-AI Workflows      →  Automation / Assistants / Product Logic
-```
+Three.js
+React Three Fiber
+WebGL
+GLB / GLTF
 
 </td>
-<td width="42%" valign="top">
+<td width="25%" align="center">
 
-### ⚡ Snapshot
+### `02`
 
-| Signal | Details |
-|---|---|
-| **Role** | Full Stack Developer |
-| **Specialty** | 3D Configurators + WebGL |
-| **Frontend** | React, Next.js, Three.js |
-| **Backend** | PHP, Node.js, MySQL, APIs |
-| **Commerce** | Shopify, WooCommerce, Headless |
-| **Delivery** | Remote-first, async-friendly |
-| **Style** | Fast, structured, production-minded |
+**COMMERCE**
 
-<br />
+Shopify
+WooCommerce
+Headless
+Product Logic
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+</td>
+<td width="25%" align="center">
+
+### `03`
+
+**PLATFORMS**
+
+React
+Next.js
+PHP
+Node.js
+
+</td>
+<td width="25%" align="center">
+
+### `04`
+
+**INTELLIGENCE**
+
+AI Workflows
+Automation
+Assistants
+Product Logic
 
 </td>
 </tr>
@@ -98,57 +144,298 @@ AI Workflows      →  Automation / Assistants / Product Logic
 
 ---
 
-## What I Build
+# 🧬 Architecture Map
+
+<div align="center">
+
+### `One product. Multiple engineering layers. One coherent system.`
+
+</div>
+
+```mermaid
+flowchart LR
+    A["CUSTOMER / USER"] --> B["INTERFACE LAYER"]
+
+    B --> C["React / Next.js"]
+    B --> D["Three.js / WebGL"]
+
+    C --> E["APPLICATION LOGIC"]
+    D --> E
+
+    E --> F["CONFIGURATION ENGINE"]
+    E --> G["COMMERCE ENGINE"]
+    E --> H["AI / AUTOMATION"]
+
+    F --> I["Pricing"]
+    F --> J["Variants"]
+    F --> K["Assets / Materials"]
+
+    G --> L["Shopify / WooCommerce"]
+    G --> M["Cart / Orders"]
+    G --> N["SKU / Inventory"]
+
+    H --> O["Assistants"]
+    H --> P["Product Guidance"]
+    H --> Q["Workflow Automation"]
+
+    I --> R["API / BACKEND"]
+    J --> R
+    K --> R
+    L --> R
+    M --> R
+    N --> R
+    O --> R
+    P --> R
+    Q --> R
+
+    R --> S["PHP / Node.js"]
+    S --> T["MySQL / PostgreSQL"]
+    S --> U["Firebase / Supabase"]
+    S --> V["External APIs"]
+
+    T --> W["PRODUCTION"]
+    U --> W
+    V --> W
+```
+
+<br />
+
+> **The interface is only the visible layer.**
+> The real engineering starts when configuration logic, commerce rules, assets, pricing, APIs, state, performance, exports, and business operations must all behave like one product.
+
+<br />
+
+---
+
+# 🛰 Capability Matrix
+
+| SYSTEM                       | ENGINEERING SCOPE                                                                     | OUTPUT                       |
+| :--------------------------- | :------------------------------------------------------------------------------------ | :--------------------------- |
+| **3D Product Configurators** | WebGL scenes, configuration state, materials, options, assets, uploads, dynamic rules | Interactive product builders |
+| **Shopify Systems**          | Storefront API, Liquid, GraphQL, product logic, SKU logic, custom workflows           | Commerce infrastructure      |
+| **SaaS Platforms**           | Dashboards, authentication, APIs, payments, admin systems, data workflows             | Production web applications  |
+| **AI Product Workflows**     | Assistants, recommendation logic, extraction, semantic workflows, automation          | Intelligent product features |
+| **Backend Systems**          | PHP, Node.js, REST/GraphQL, databases, external services                              | Reliable application logic   |
+| **Frontend Systems**         | React, Next.js, responsive UX, state architecture, interaction systems                | High-performance interfaces  |
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/REAL--TIME-3D-2563eb?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/CONFIGURATION-LOGIC-7c3aed?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/COMMERCE-INTEGRATION-06b6d4?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/API-ARCHITECTURE-f97316?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/AI-AUTOMATION-22c55e?style=for-the-badge&labelColor=020617" />
+
+</div>
+
+<br />
+
+---
+
+# 🧊 3D Commerce Engine
+
+A configurator is not just a model viewer.
+
+The systems I build combine multiple layers:
+
+```txt
+PRODUCT
+│
+├── Geometry
+│   ├── GLB / GLTF
+│   ├── Mesh hierarchy
+│   └── Optimized assets
+│
+├── Appearance
+│   ├── PBR materials
+│   ├── Colors
+│   ├── Textures
+│   └── Product variants
+│
+├── Configuration
+│   ├── Option dependencies
+│   ├── Availability rules
+│   ├── Dynamic pricing
+│   └── Configuration state
+│
+├── Customer Input
+│   ├── Logo uploads
+│   ├── Text
+│   ├── Images
+│   └── Custom options
+│
+├── Commerce
+│   ├── SKU mapping
+│   ├── Variant resolution
+│   ├── Cart integration
+│   └── Order metadata
+│
+└── Output
+    ├── Preview
+    ├── PNG
+    ├── SVG
+    ├── PDF
+    └── Production data
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TARGET-60FPS%20MOBILE-2563eb?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/SCALE-10k%2B%20COMBINATIONS-7c3aed?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/RENDERING-WEBGL-06b6d4?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/FORMAT-glTF%202.0-f97316?style=flat-square&labelColor=020617" />
+
+</div>
+
+<br />
+
+---
+
+# 🧠 What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧊 3D Product Configurators
+## `01 // 3D_CONFIG`
 
-Interactive product builders with real-time previews, dynamic options, pricing logic, asset pipelines, and cart/order integrations.
+### 3D Product Configurators
+
+Real-time customization systems for products requiring more than static images and dropdown selectors.
+
+**Core systems**
+
+* real-time WebGL previews
+* material and color switching
+* configuration dependencies
+* dynamic product options
+* uploaded artwork
+* pricing logic
+* variant resolution
+* output generation
+* commerce integration
+* mobile optimization
+
+**Core stack**
 
 ```txt
-Three.js · React Three Fiber · GLB/GLTF · Blender
-PBR materials · Variant logic · Uploads · PDF export
+Three.js
+React Three Fiber
+WebGL
+GLB / GLTF
+Blender
+PBR Materials
+React
+APIs
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛒 Shopify & E-Commerce Systems
+## `02 // COMMERCE`
 
-Custom storefront features, SKU/variant logic, headless commerce flows, custom product builders, and admin tools.
+### Shopify & E-Commerce Engineering
+
+Commerce systems designed around real product operations rather than generic theme behavior.
+
+**Core systems**
+
+* custom storefront functionality
+* SKU / variant architecture
+* product builders
+* headless commerce
+* Shopify integrations
+* inventory logic
+* customer configuration data
+* admin workflows
+* automation
+
+**Core stack**
 
 ```txt
-Shopify Storefront API · Liquid · Hydrogen · GraphQL
-Custom checkout flows · Inventory/SKU logic · Automation
+Shopify
+Liquid
+Storefront API
+GraphQL
+Hydrogen
+JavaScript
+Node.js
+Custom APIs
 ```
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI-Powered Product Workflows
+## `03 // INTELLIGENCE`
 
-AI assistants, automation flows, product recommendation logic, internal tools, and customer-facing smart configuration helpers.
+### AI-Powered Workflows
+
+Intelligence embedded directly into product and operational workflows.
+
+**Core systems**
+
+* AI assistants
+* product guidance
+* recommendation logic
+* workflow automation
+* semantic search
+* extraction
+* content generation
+* internal utilities
+* customer-facing AI tools
+
+**Core stack**
 
 ```txt
-OpenAI · LangChain · Node.js · Prompt workflows
-Semantic search · Data extraction · Agentic utilities
+OpenAI
+Node.js
+LangChain
+Prompt Workflows
+Semantic Search
+APIs
+Automation
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🚀 SaaS & Full-Stack Platforms
+## `04 // PLATFORM`
 
-Dashboards, API systems, production admin panels, user management, payments, file workflows, and scalable backend architecture.
+### SaaS & Full-Stack Platforms
+
+Production applications with everything behind the interface handled as part of the product.
+
+**Core systems**
+
+* dashboards
+* admin panels
+* authentication
+* user management
+* payments
+* API architecture
+* file workflows
+* databases
+* third-party integrations
+
+**Core stack**
 
 ```txt
-React · Next.js · PHP · Node.js · MySQL
-Firebase · Supabase · Stripe · REST/GraphQL APIs
+React
+Next.js
+PHP
+Node.js
+MySQL
+PostgreSQL
+Firebase
+Supabase
+Stripe
 ```
 
 </td>
@@ -157,132 +444,170 @@ Firebase · Supabase · Stripe · REST/GraphQL APIs
 
 <br />
 
-<div align="center">
+---
 
-<img src="https://img.shields.io/badge/60FPS-Mobile%20Target-2563eb?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/10k%2B-Configuration%20Combinations-7c3aed?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/WebGL-Real%20Time%203D-06b6d4?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/AI-Automation%20Ready-22c55e?style=for-the-badge&labelColor=020617" />
+# 🧩 Selected Systems
 
-</div>
+## `CONFIGURE_XK`
+
+**Reusable 3D configuration architecture**
+
+```txt
+CATEGORY       3D Configurator Platform
+PURPOSE        Product customization infrastructure
+ENGINE         React + Three.js + WebGL
+CAPABILITIES   Preview / Options / Pricing / Ordering
+```
+
+A reusable framework for building product customization experiences without rebuilding the configuration engine from zero for every product.
+
+---
+
+## `SHOPIFY_SKU_ENGINE`
+
+**Commerce product-logic infrastructure**
+
+```txt
+CATEGORY       E-Commerce Infrastructure
+PLATFORM       Shopify
+LOGIC          Garment / Color / Size / SKU / Pricing
+INTERFACE      Liquid + JavaScript + APIs
+```
+
+Centralizes product and SKU relationships so complex configuration logic remains manageable across the storefront and ordering pipeline.
+
+---
+
+## `3D_APPAREL_CUSTOMIZER`
+
+**Real-time retail visualization**
+
+```txt
+CATEGORY       Product Visualization
+ENGINE         Three.js
+FORMAT         GLB
+UI             React
+FEATURES       Materials / Logos / Options / Export
+```
+
+Interactive apparel customization combining product materials, uploaded artwork, configuration state, preview generation, and order-ready product data.
+
+---
+
+## `AI_PRODUCT_WORKFLOWS`
+
+**Automation integrated into product systems**
+
+```txt
+CATEGORY       AI / Automation
+ENGINE         OpenAI + Node.js
+INTERFACE      API-driven
+USE CASES      Guidance / Content / Internal Tools / Automation
+```
+
+AI functionality treated as part of the application architecture—not as a disconnected chatbot.
 
 <br />
 
 ---
 
-## Tech Stack
+# 🏗 Build Pipeline
 
-<div align="center">
+```txt
+01
+DISCOVERY
+└── Understand the real business system
 
-### Frontend / UI / 3D
+        ↓
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,figma&theme=dark" />
+02
+ARCHITECTURE
+└── Define data, state, dependencies and interfaces
 
-<br /><br />
+        ↓
 
-### Backend / Data / Infrastructure
+03
+PROTOTYPE
+└── Validate the difficult interactions early
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,firebase,supabase,docker,aws,vercel&theme=dark" />
+        ↓
 
-<br /><br />
+04
+ENGINEERING
+└── Build production components and services
 
-### Commerce / AI / Tooling
+        ↓
 
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/glTF%202.0-60a5fa?style=flat-square" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+05
+INTEGRATION
+└── Connect commerce, APIs, data and automation
 
-</div>
+        ↓
 
-<br />
+06
+OPTIMIZATION
+└── Performance, responsive behavior and edge cases
 
----
+        ↓
 
-## Selected Systems
+07
+QA
+└── Real-device and real-flow verification
 
-<table>
-<tr>
-<th align="left">System</th>
-<th align="left">Category</th>
-<th align="left">What it solves</th>
-<th align="left">Stack</th>
-</tr>
-<tr>
-<td><b>ConfigureXK</b></td>
-<td>3D Configurator Platform</td>
-<td>Reusable framework for product customization, previews, pricing, and production-ready ordering flows.</td>
-<td>React · Three.js · WebGL · APIs</td>
-</tr>
-<tr>
-<td><b>Shopify Variant/SKU Engine</b></td>
-<td>E-Commerce Infrastructure</td>
-<td>Centralized SKU, garment, color, size, and pricing logic for cleaner product operations.</td>
-<td>Shopify · Liquid · JS · API</td>
-</tr>
-<tr>
-<td><b>3D Apparel Customizer</b></td>
-<td>Retail Visualization</td>
-<td>Interactive customization for apparel with materials, logo placement, product options, and export flow.</td>
-<td>Three.js · GLB · React</td>
-</tr>
-<tr>
-<td><b>AI-Assisted Product Workflows</b></td>
-<td>Automation</td>
-<td>Smart product guidance, content generation, workflow automation, and internal assistant tooling.</td>
-<td>OpenAI · Node.js · APIs</td>
-</tr>
-</table>
+        ↓
+
+08
+DEPLOYMENT
+└── Production release and handoff
+```
 
 <br />
-
----
-
-## Delivery System
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 01 · Scope
+### `01 / SCOPE`
 
-Clear written requirements before code starts.
+Before implementation:
 
-- goals
-- constraints
-- user flows
-- data model
-- delivery milestones
-
-</td>
-<td width="33%" valign="top">
-
-### 02 · Build
-
-Fast implementation with production structure.
-
-- clean components
-- scalable APIs
-- responsive UI
-- performance budget
-- real device testing
+* goals
+* constraints
+* user flows
+* product rules
+* data model
+* integrations
+* milestones
 
 </td>
+
 <td width="33%" valign="top">
 
-### 03 · Launch
+### `02 / BUILD`
 
-Polish, deploy, document, and hand off.
+During engineering:
 
-- QA pass
-- optimization
-- deployment
-- documentation
-- support options
+* component structure
+* state architecture
+* scalable APIs
+* responsive behavior
+* performance budget
+* device testing
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03 / SHIP`
+
+Before release:
+
+* QA
+* optimization
+* deployment
+* documentation
+* handoff
+* support planning
 
 </td>
 </tr>
@@ -292,20 +617,73 @@ Polish, deploy, document, and hand off.
 
 ---
 
-## GitHub Intelligence
+# 🧰 Technology Core
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&bg_color=0d1117&langs_count=10&hide=html" />
+### `FRONTEND // INTERACTION // 3D`
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs&theme=dark" />
 
 <br /><br />
 
-<img width="92%" src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=60A5FA&fire=3B82F6&currStreakLabel=60A5FA&dates=94A3B8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+```txt
+React • Next.js • TypeScript • JavaScript • Tailwind
+Three.js • React Three Fiber • WebGL • Responsive UI
+```
+
+<br />
+
+### `BACKEND // DATA // SERVICES`
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,firebase,supabase&theme=dark" />
 
 <br /><br />
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=enisgjinii&bg_color=0d1117&color=60a5fa&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=10" />
+```txt
+PHP • Node.js • Express • REST • GraphQL
+MySQL • PostgreSQL • Firebase • Supabase
+```
+
+<br />
+
+### `INFRASTRUCTURE // DELIVERY`
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github&theme=dark" />
+
+<br /><br />
+
+```txt
+Docker • AWS • Vercel • Git • GitHub
+API Integrations • Production Deployment
+```
+
+<br />
+
+### `COMMERCE // 3D // AI`
+
+<br />
+
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/glTF-2.0-38bdf8?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/PBR-MATERIALS-7c3aed?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/HEADLESS-COMMERCE-22c55e?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/REST-APIs-f97316?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/GRAPHQL-APIs-e535ab?style=flat-square&labelColor=020617" />
 
 </div>
 
@@ -313,30 +691,45 @@ Polish, deploy, document, and hand off.
 
 ---
 
-## Engineering Rules
+# 🛡 Engineering Protocol
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✅ What I optimize for
+## `OPTIMIZE_FOR`
 
-- Fast first load and smooth interaction
-- Clean state and predictable data flow
-- Mobile-friendly 3D performance
-- Maintainable code after handoff
-- Business logic that matches real operations
+```diff
++ Fast initial load
++ Smooth interaction
++ Predictable state
++ Clear data flow
++ Mobile 3D performance
++ Maintainable architecture
++ Production resilience
++ Business-aligned logic
++ Clean handoff
++ Measurable simplicity
+```
 
 </td>
+
 <td width="50%" valign="top">
 
-### ❌ What I avoid
+## `REJECT`
 
-- Over-engineered features with no business value
-- Silent scope creep
-- Fragile animation-heavy interfaces
-- Bloated dependencies
-- Code that only works on one machine
+```diff
+- Scope without definition
+- Animation without purpose
+- Architecture without value
+- Dependencies without reason
+- Fragile state
+- Duplicate business logic
+- Desktop-only thinking
+- One-machine solutions
+- Unmaintainable handoffs
+- Complexity for complexity's sake
+```
 
 </td>
 </tr>
@@ -344,34 +737,229 @@ Polish, deploy, document, and hand off.
 
 <br />
 
+### My default engineering question:
+
+```txt
+Does this make the product faster,
+clearer,
+more reliable,
+or more valuable?
+
+If not → why are we building it?
+```
+
+<br />
+
 ---
 
-## Work With Me
+# 🧪 Performance Philosophy
+
+```js
+const productionSystem = {
+  ux: "clear",
+  architecture: "maintainable",
+  interaction: "responsive",
+  performance: "intentional",
+  businessLogic: "explicit",
+  deployment: "repeatable",
+  complexity: "earned",
+};
+```
+
+I treat performance as part of architecture—not something added during the last deployment.
+
+That means considering:
+
+* asset size
+* rendering cost
+* network behavior
+* unnecessary requests
+* component updates
+* application state
+* 3D scene complexity
+* material complexity
+* device limitations
+* API boundaries
+* database access
+* third-party dependencies
+
+before they become production problems.
+
+<br />
+
+---
+
+# 🔬 How I Think About Products
+
+```txt
+                       PRODUCT
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+           UX          SYSTEMS       BUSINESS
+            │             │             │
+       Interaction      State         Rules
+       Responsive       APIs          Pricing
+       Feedback         Data          Orders
+       Accessibility    Assets        Operations
+            │             │             │
+            └─────────────┼─────────────┘
+                          │
+                     ENGINEERING
+                          │
+                    PRODUCTION
+```
+
+A polished interface with weak architecture eventually fails.
+
+Strong architecture with poor UX never reaches its potential.
+
+The goal is to engineer both as one system.
+
+<br />
+
+---
+
+# 📡 GitHub Telemetry
 
 <div align="center">
 
-### Building a configurator, Shopify system, SaaS tool, or AI workflow?
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=enisgjinii&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=3b82f6&text_color=cbd5e1&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enisgjinii&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&langs_count=10&hide=html" />
+
+<br /><br />
+
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com?user=enisgjinii&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=3B82F6&currStreakLabel=38BDF8&dates=94A3B8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br /><br />
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=enisgjinii&bg_color=0d1117&color=38bdf8&line=3b82f6&point=ffffff&area=true&area_color=1d4ed8&hide_border=true&radius=10" />
+
+</div>
+
+<br />
+
+---
+
+# 🧭 Current Engineering Direction
+
+```txt
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  3D CONFIGURATORS    ████████████████████████████  PRIMARY    │
+│                                                               │
+│  COMMERCE SYSTEMS    ██████████████████████████    PRIMARY    │
+│                                                               │
+│  SAAS PLATFORMS      ███████████████████████       CORE       │
+│                                                               │
+│  AI AUTOMATION       █████████████████████         GROWING    │
+│                                                               │
+│  BACKEND SYSTEMS     █████████████████████████     CORE       │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+<br />
+
+---
+
+# 🔐 Engineering Contract
+
+When I own a system, I care about more than whether it compiles.
+
+```txt
+[✓] Does it solve the actual requirement?
+[✓] Does the state remain predictable?
+[✓] Is the interface responsive?
+[✓] Does it work outside the developer's machine?
+[✓] Can another developer understand it?
+[✓] Can the business operate it?
+[✓] Can it survive new requirements?
+[✓] Is unnecessary complexity removed?
+```
+
+<br />
+
+---
+
+# 🌐 Operating Model
+
+<div align="center">
+
+|         INPUT         |        PROCESS       |           OUTPUT          |
+| :-------------------: | :------------------: | :-----------------------: |
+| Business requirements |     Architecture     |     Production system     |
+|   Product complexity  |   Structured logic   |      Clear interface      |
+|       3D assets       |  Rendering pipeline  | Interactive visualization |
+|     Commerce rules    | Configuration engine |        Valid orders       |
+|    Application data   |   Backend/API layer  |     Reliable workflows    |
+|  Repetitive processes |      Automation      |    Operational leverage   |
+
+</div>
+
+<br />
+
+---
+
+# 🚀 Initialize a Project
+
+<div align="center">
+
+### Have a product that normal templates cannot handle?
+
+<br />
+
+Whether it is:
+
+**3D configuration**
+
+**Shopify product logic**
+
+**custom commerce infrastructure**
+
+**a SaaS platform**
+
+**an internal business tool**
+
+**or an AI-powered workflow**
+
+I build the engineering layer behind it.
 
 <br />
 
 <a href="mailto:hello@enis.dev">
-  <img src="https://img.shields.io/badge/Start%20a%20Project-Email%20Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/INITIALIZE_PROJECT-EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
 </a>
-<a href="https://linkedin.com/in/enisgjinii">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
-</a>
+
 <a href="https://enis.dev">
-  <img src="https://img.shields.io/badge/View-Portfolio-60a5fa?style=for-the-badge&logo=safari&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-enis.dev-38bdf8?style=for-the-badge&logo=safari&logoColor=white&labelColor=020617" />
+</a>
+
+<a href="https://linkedin.com/in/enisgjinii">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
 </a>
 
 <br /><br />
 
 ```txt
-Available for: 3D configurators · Shopify systems · SaaS platforms · AI automation · technical retainers
+AVAILABLE FOR
+──────────────────────────────────────────────────────────
+3D CONFIGURATORS
+SHOPIFY / E-COMMERCE SYSTEMS
+CUSTOM SAAS PLATFORMS
+AI AUTOMATION
+FULL-STACK PRODUCT ENGINEERING
+TECHNICAL RETAINERS
+──────────────────────────────────────────────────────────
 ```
 
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563eb,50:0f172a,100:050816" />
+### `BUILD COMPLEXITY. SHIP CLARITY.`
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563eb,45:172554,75:0f172a,100:020617" />
 
 </div>
